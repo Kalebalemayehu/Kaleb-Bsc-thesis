@@ -1,0 +1,11 @@
+-- Data collected - FAO 
+--Exploritory-- overall okay correlations
+--preprocessing -- imputted missing Data
+--model application -- implemented AI models by iterating on each plant
+--XAI implementation -- Obtained shaply values, and shaply plot
+
+TO DO!
+
+--Lime values and plots----check
+--Repeat process for Support_vector
+--repeat process for Gradient_boosting

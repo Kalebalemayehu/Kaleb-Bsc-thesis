@@ -1,0 +1,2211 @@
+,Year,Item,harvest_area (ha),Yield(hg/ha)
+0,1991,Apples,39200,199184
+1,1992,Apples,39200,351480
+2,1993,Apples,39200,225102
+3,1994,Apples,36400,241621
+4,1995,Apples,36100,158809
+5,1996,Apples,36400,241236
+6,1997,Apples,35800,213575
+7,1998,Apples,35800,272961
+8,1999,Apples,35800,289413
+9,2000,Apples,125000,250944
+10,2001,Apples,70000,254143
+11,2003,Apples,31164,262493
+12,2004,Apples,32345,302900
+13,2005,Apples,32339,275643
+14,2006,Apples,32504,291537
+15,2007,Apples,31721,337327
+16,2008,Apples,31800,329244
+17,2009,Apples,31813,336554
+18,2010,Apples,31819,262409
+19,2011,Apples,31608,284247
+20,2012,Apples,31640,307334
+21,2013,Apples,31647,253984
+22,2014,Apples,31465,354648
+23,2015,Apples,31408,309941
+24,2016,Apples,31334,329646
+25,2017,Apples,33913,175940
+26,2018,Apples,33980,352713
+27,2019,Apples,33980,291775
+28,2020,Apples,33980,301154
+29,2021,Apples,33980,295653
+30,1991,Apricots,100,90000
+31,1992,Apricots,100,50000
+32,1993,Apricots,100,20000
+33,1994,Apricots,100,10000
+34,1995,Apricots,100,20000
+35,1996,Apricots,100,30000
+36,1997,Apricots,100,10000
+37,1998,Apricots,100,20000
+38,1999,Apricots,100,20000
+39,2000,Apricots,100,30000
+40,2001,Apricots,100,10000
+41,2002,Apricots,100,20000
+42,2003,Apricots,53,34906
+43,2004,Apricots,53,92264
+44,2005,Apricots,53,40755
+45,2006,Apricots,53,56604
+46,2007,Apricots,55,56364
+47,1969,Asparagus,5956,27005
+48,1970,Asparagus,6127,28510
+49,1971,Asparagus,6769,31824
+50,1972,Asparagus,5917,28636
+51,1973,Asparagus,5955,30403
+52,1974,Asparagus,5843,25499
+53,1975,Asparagus,5497,26214
+54,1976,Asparagus,5604,26344
+55,1977,Asparagus,5835,25719
+56,1978,Asparagus,6203,25870
+57,1979,Asparagus,6218,23885
+58,1980,Asparagus,6381,22023
+59,1981,Asparagus,6340,24513
+60,1982,Asparagus,6217,24150
+61,1983,Asparagus,6230,23482
+62,1984,Asparagus,6427,23341
+63,1985,Asparagus,6584,26121
+64,1986,Asparagus,6705,27682
+65,1987,Asparagus,6614,22220
+66,1988,Asparagus,7985,24695
+67,1989,Asparagus,8271,25513
+68,1990,Asparagus,7971,27611
+69,1991,Asparagus,6253,24751
+70,1992,Asparagus,7524,37735
+71,1993,Asparagus,8063,36952
+72,1994,Asparagus,8250,33038
+73,1995,Asparagus,9137,34825
+74,1996,Asparagus,10503,34953
+75,1997,Asparagus,10901,37438
+76,1998,Asparagus,11261,40416
+77,1999,Asparagus,11429,39538
+78,2000,Asparagus,11597,43800
+79,2001,Asparagus,12904,40488
+80,2002,Asparagus,14222,40217
+81,2003,Asparagus,15106,43252
+82,2004,Asparagus,16744,43309
+83,2005,Asparagus,18117,45680
+84,2006,Asparagus,18408,44537
+85,2007,Asparagus,18610,50664
+86,2008,Asparagus,18436,50257
+87,2009,Asparagus,18190,53982
+88,2010,Asparagus,18794,49167
+89,2011,Asparagus,18611,55589
+90,2012,Asparagus,19329,52975
+91,2013,Asparagus,19634,52515
+92,2014,Asparagus,20122,56699
+93,2015,Asparagus,20594,55168
+94,2016,Asparagus,22274,53881
+95,2017,Asparagus,23190,56439
+96,2018,Asparagus,23410,56822
+97,2019,Asparagus,22980,56815
+98,2020,Asparagus,22410,52459
+99,2021,Asparagus,22280,53532
+100,1961,Barley,1552018,23640
+101,1962,Barley,1512480,32451
+102,1963,Barley,1568356,30346
+103,1964,Barley,1616508,33476
+104,1965,Barley,1690106,29678
+105,1966,Barley,1809287,29816
+106,1967,Barley,1860835,35797
+107,1968,Barley,1925629,36844
+108,1969,Barley,2028309,35487
+109,1970,Barley,2114790,31587
+110,1971,Barley,2161129,37294
+111,1972,Barley,2166948,39638
+112,1973,Barley,2362978,40077
+113,1974,Barley,2444346,42834
+114,1975,Barley,2685089,39669
+115,1976,Barley,2695209,36893
+116,1977,Barley,2808277,40110
+117,1978,Barley,2988958,42632
+118,1979,Barley,2933104,39231
+119,1980,Barley,2970671,43104
+120,1981,Barley,3008345,40429
+121,1982,Barley,3002448,45012
+122,1983,Barley,2924272,43861
+123,1984,Barley,2925856,49292
+124,1985,Barley,2831186,49648
+125,1986,Barley,2842759,48089
+126,1987,Barley,2741115,46585
+127,1988,Barley,2710209,49390
+128,1989,Barley,2640401,54534
+129,1990,Barley,2612519,53558
+130,1991,Barley,2535384,57166
+131,1992,Barley,2407963,50650
+132,1993,Barley,2200764,50008
+133,1994,Barley,2069538,52681
+134,1995,Barley,2108700,56391
+135,1996,Barley,2208408,54673
+136,1997,Barley,2273950,58923
+137,1998,Barley,2180849,57373
+138,1999,Barley,2210353,60176
+139,2000,Barley,2067590,58550
+140,2001,Barley,2111822,63900
+141,2002,Barley,1970335,55462
+142,2003,Barley,2074622,51072
+143,2004,Barley,1979472,65638
+144,2005,Barley,1946800,59656
+145,2006,Barley,2025300,59086
+146,2007,Barley,1916871,54173
+147,2008,Barley,1961682,61004
+148,2009,Barley,1877894,65436
+149,2010,Barley,1641322,62918
+150,2011,Barley,1598100,54651
+151,2012,Barley,1677800,61934
+152,2013,Barley,1570400,65866
+153,2014,Barley,1573700,73475
+154,2015,Barley,1621800,71710
+155,2016,Barley,1605000,66857
+156,2017,Barley,1566100,69302
+157,2018,Barley,1662000,57663
+158,2019,Barley,1708800,67834
+159,2020,Barley,1667300,64591
+160,2021,Barley,1539500,67627
+161,1961,"Beans, dry",6737,18841
+162,1962,"Beans, dry",7790,20266
+163,1963,"Beans, dry",8001,21170
+164,1964,"Beans, dry",5682,18701
+165,1965,"Beans, dry",3459,25025
+166,1966,"Beans, dry",4458,18991
+167,2006,Blueberries,1410,43177
+168,2007,Blueberries,1406,41380
+169,2008,Blueberries,1406,29275
+170,2009,Blueberries,1426,69705
+171,2010,Blueberries,1429,58118
+172,2011,Blueberries,1434,46081
+173,2012,Blueberries,1835,48191
+174,2013,Blueberries,2031,50601
+175,2014,Blueberries,2083,57979
+176,2015,Blueberries,2479,48185
+177,2016,Blueberries,2714,39462
+178,2017,Blueberries,2844,48541
+179,2018,Blueberries,3040,41974
+180,2019,Blueberries,3160,46994
+181,2020,Blueberries,3290,34347
+182,2021,Blueberries,3360,46548
+183,1961,"Broad beans and horse beans, dry",34951,23147
+184,1962,"Broad beans and horse beans, dry",41479,25120
+185,1963,"Broad beans and horse beans, dry",42439,23410
+186,1990,"Broad beans and horse beans, dry",41000,32366
+187,1991,"Broad beans and horse beans, dry",24281,35693
+188,1992,"Broad beans and horse beans, dry",17991,31013
+189,1993,"Broad beans and horse beans, dry",22322,37271
+190,1994,"Broad beans and horse beans, dry",30388,29841
+191,1995,"Broad beans and horse beans, dry",25498,33803
+192,1996,"Broad beans and horse beans, dry",21125,37043
+193,1997,"Broad beans and horse beans, dry",25860,35419
+194,1998,"Broad beans and horse beans, dry",26454,35373
+195,1999,"Broad beans and horse beans, dry",23222,41313
+196,2000,"Broad beans and horse beans, dry",17677,34927
+197,2001,"Broad beans and horse beans, dry",20624,39182
+198,2002,"Broad beans and horse beans, dry",18518,34915
+199,2003,"Broad beans and horse beans, dry",20042,30360
+200,2004,"Broad beans and horse beans, dry",15511,41324
+201,2005,"Broad beans and horse beans, dry",15700,37962
+202,2006,"Broad beans and horse beans, dry",15000,32733
+203,2007,"Broad beans and horse beans, dry",12216,35320
+204,2008,"Broad beans and horse beans, dry",11128,34480
+205,2009,"Broad beans and horse beans, dry",12022,39485
+206,2010,"Broad beans and horse beans, dry",16293,30640
+207,2011,"Broad beans and horse beans, dry",17300,35491
+208,2012,"Broad beans and horse beans, dry",15800,38797
+209,2013,"Broad beans and horse beans, dry",16500,36182
+210,2014,"Broad beans and horse beans, dry",20500,42732
+211,2015,"Broad beans and horse beans, dry",37600,35426
+212,2016,"Broad beans and horse beans, dry",38800,39613
+213,2017,"Broad beans and horse beans, dry",46400,40690
+214,2018,"Broad beans and horse beans, dry",55300,29078
+215,2019,"Broad beans and horse beans, dry",49200,32419
+216,2020,"Broad beans and horse beans, dry",58700,40170
+217,2021,"Broad beans and horse beans, dry",57600,40955
+218,1961,"Broad beans and horse beans, green",1613,124613
+219,1962,"Broad beans and horse beans, green",1879,116551
+220,1963,"Broad beans and horse beans, green",2106,135802
+221,1964,"Broad beans and horse beans, green",1491,111335
+222,1965,"Broad beans and horse beans, green",1238,121971
+223,1966,"Broad beans and horse beans, green",1177,128734
+224,1967,"Broad beans and horse beans, green",1647,133594
+225,1968,"Broad beans and horse beans, green",1762,139989
+226,1969,"Broad beans and horse beans, green",1863,142780
+227,1970,"Broad beans and horse beans, green",1601,143660
+228,1971,"Broad beans and horse beans, green",1536,140573
+229,1972,"Broad beans and horse beans, green",1278,147887
+230,1973,"Broad beans and horse beans, green",1269,141316
+231,1974,"Broad beans and horse beans, green",1316,123860
+232,1975,"Broad beans and horse beans, green",1175,119796
+233,1976,"Broad beans and horse beans, green",1340,80470
+234,1977,"Broad beans and horse beans, green",1018,118202
+235,1978,"Broad beans and horse beans, green",1233,118443
+236,1979,"Broad beans and horse beans, green",1172,119906
+237,1980,"Broad beans and horse beans, green",1016,104409
+238,1981,"Broad beans and horse beans, green",870,111759
+239,1982,"Broad beans and horse beans, green",752,133045
+240,1983,"Broad beans and horse beans, green",741,140486
+241,1984,"Broad beans and horse beans, green",872,140069
+242,1985,"Broad beans and horse beans, green",1004,50966
+243,1986,"Broad beans and horse beans, green",1011,53452
+244,1987,"Broad beans and horse beans, green",641,50998
+245,1988,"Broad beans and horse beans, green",739,51394
+246,1989,"Broad beans and horse beans, green",693,49062
+247,1990,"Broad beans and horse beans, green",713,58766
+248,1991,"Broad beans and horse beans, green",992,66351
+249,1992,"Broad beans and horse beans, green",957,92278
+250,1993,"Broad beans and horse beans, green",632,57089
+251,1994,"Broad beans and horse beans, green",568,54894
+252,1995,"Broad beans and horse beans, green",682,60117
+253,1996,"Broad beans and horse beans, green",705,63858
+254,1997,"Broad beans and horse beans, green",780,66859
+255,1998,"Broad beans and horse beans, green",760,59066
+256,1999,"Broad beans and horse beans, green",633,65561
+257,2000,"Broad beans and horse beans, green",157,162357
+258,2001,"Broad beans and horse beans, green",165,170788
+259,2002,"Broad beans and horse beans, green",165,166000
+260,2003,"Broad beans and horse beans, green",154,146364
+261,2006,"Broad beans and horse beans, green",403,71266
+262,2007,"Broad beans and horse beans, green",470,76021
+263,2008,"Broad beans and horse beans, green",548,74763
+264,2009,"Broad beans and horse beans, green",533,74071
+265,2010,"Broad beans and horse beans, green",412,88325
+266,2011,"Broad beans and horse beans, green",538,79851
+267,2012,"Broad beans and horse beans, green",491,74745
+268,2013,"Broad beans and horse beans, green",518,62239
+269,2014,"Broad beans and horse beans, green",427,73747
+270,2015,"Broad beans and horse beans, green",452,59927
+271,2016,"Broad beans and horse beans, green",449,77773
+272,2017,"Broad beans and horse beans, green",583,60412
+273,2018,"Broad beans and horse beans, green",599,51152
+274,2019,"Broad beans and horse beans, green",530,47925
+275,2020,"Broad beans and horse beans, green",630,51429
+276,2021,"Broad beans and horse beans, green",370,63243
+277,1961,Cabbages,30553,284699
+278,1962,Cabbages,28226,276867
+279,1963,Cabbages,28798,278747
+280,1964,Cabbages,26506,278209
+281,1965,Cabbages,24406,288772
+282,1966,Cabbages,29767,325770
+283,1967,Cabbages,27655,335112
+284,1968,Cabbages,24492,317747
+285,1969,Cabbages,25039,294672
+286,1970,Cabbages,28173,332854
+287,1972,Cabbages,28054,316018
+288,1973,Cabbages,26874,360026
+289,1974,Cabbages,25617,359815
+290,1975,Cabbages,24040,320018
+291,1976,Cabbages,24997,312835
+292,1977,Cabbages,27643,358914
+293,1978,Cabbages,26449,349739
+294,1979,Cabbages,25923,347459
+295,1980,Cabbages,24663,296605
+296,1981,Cabbages,25731,365168
+297,1982,Cabbages,25736,364636
+298,1983,Cabbages,25011,305805
+299,1984,Cabbages,27050,365473
+300,1985,Cabbages,28341,379355
+301,1986,Cabbages,26339,382103
+302,1987,Cabbages,25104,347814
+303,1988,Cabbages,26177,376446
+304,1989,Cabbages,25281,372587
+305,1990,Cabbages,17246,383244
+306,1991,Cabbages,17636,435532
+307,1992,Cabbages,18232,444062
+308,1993,Cabbages,17661,479918
+309,1994,Cabbages,16992,454196
+310,1995,Cabbages,17254,479055
+311,1996,Cabbages,18675,502047
+312,1997,Cabbages,17093,492611
+313,1998,Cabbages,16585,481636
+314,1999,Cabbages,16739,538566
+315,2000,Cabbages,16192,530667
+316,2001,Cabbages,14939,524247
+317,2002,Cabbages,15028,460025
+318,2003,Cabbages,16018,489785
+319,2004,Cabbages,16034,496052
+320,2005,Cabbages,14432,499965
+321,2006,Cabbages,14787,498720
+322,2007,Cabbages,14797,525594
+323,2008,Cabbages,15573,517613
+324,2009,Cabbages,14867,565804
+325,2010,Cabbages,14471,543891
+326,2011,Cabbages,14826,558827
+327,2012,Cabbages,14076,570416
+328,2013,Cabbages,12998,541249
+329,2014,Cabbages,13391,599573
+330,2015,Cabbages,12962,531478
+331,2016,Cabbages,13339,536479
+332,2017,Cabbages,13991,564785
+333,2018,Cabbages,12740,474356
+334,2019,Cabbages,13100,551366
+335,2020,Cabbages,13250,547419
+336,2021,Cabbages,12770,574221
+337,1961,Carrots and turnips,7931,253136
+338,1962,Carrots and turnips,9507,266209
+339,1963,Carrots and turnips,11911,277591
+340,1964,Carrots and turnips,9590,282813
+341,1965,Carrots and turnips,8987,293420
+342,1966,Carrots and turnips,9425,328828
+343,1967,Carrots and turnips,9908,329772
+344,1968,Carrots and turnips,10276,306188
+345,1969,Carrots and turnips,10176,291628
+346,1970,Carrots and turnips,11874,322293
+347,1971,Carrots and turnips,11005,296496
+348,1972,Carrots and turnips,10535,345222
+349,1973,Carrots and turnips,10859,289868
+350,1974,Carrots and turnips,10192,296285
+351,1975,Carrots and turnips,10805,258568
+352,1976,Carrots and turnips,10884,202709
+353,1977,Carrots and turnips,14831,351728
+354,1978,Carrots and turnips,12839,332095
+355,1979,Carrots and turnips,13810,308744
+356,1980,Carrots and turnips,13021,315252
+357,1981,Carrots and turnips,13289,321463
+358,1982,Carrots and turnips,12813,273306
+359,1983,Carrots and turnips,13051,281952
+360,1984,Carrots and turnips,14349,385797
+361,1985,Carrots and turnips,14747,360317
+362,1986,Carrots and turnips,13566,372940
+363,1987,Carrots and turnips,13289,388670
+364,1988,Carrots and turnips,13937,289994
+365,1989,Carrots and turnips,15510,305924
+366,1990,Carrots and turnips,11725,302912
+367,1991,Carrots and turnips,6730,334053
+368,1992,Carrots and turnips,7058,328109
+369,1993,Carrots and turnips,6880,426401
+370,1994,Carrots and turnips,6523,375378
+371,1995,Carrots and turnips,7544,394235
+372,1996,Carrots and turnips,8045,422725
+373,1997,Carrots and turnips,7770,402475
+374,1998,Carrots and turnips,8378,443960
+375,1999,Carrots and turnips,8484,447364
+376,2000,Carrots and turnips,9375,460310
+377,2001,Carrots and turnips,8879,500561
+378,2002,Carrots and turnips,8961,463073
+379,2003,Carrots and turnips,9255,460333
+380,2004,Carrots and turnips,10504,527732
+381,2005,Carrots and turnips,9858,523764
+382,2006,Carrots and turnips,10043,502003
+383,2007,Carrots and turnips,10217,550353
+384,2008,Carrots and turnips,10226,534982
+385,2009,Carrots and turnips,10471,544589
+386,2010,Carrots and turnips,10367,534361
+387,2011,Carrots and turnips,9683,551190
+388,2012,Carrots and turnips,10150,584001
+389,2013,Carrots and turnips,10189,572762
+390,2014,Carrots and turnips,10111,602663
+391,2015,Carrots and turnips,9649,546032
+392,2016,Carrots and turnips,11209,572422
+393,2017,Carrots and turnips,12545,585035
+394,2018,Carrots and turnips,12960,482531
+395,2019,Carrots and turnips,13730,576191
+396,2020,Carrots and turnips,13790,581748
+397,2021,Carrots and turnips,14920,644752
+398,1961,Cauliflowers and broccoli,7206,178941
+399,1962,Cauliflowers and broccoli,6767,188373
+400,1963,Cauliflowers and broccoli,7363,189561
+401,1964,Cauliflowers and broccoli,7214,199448
+402,1965,Cauliflowers and broccoli,6935,196094
+403,1966,Cauliflowers and broccoli,7164,214274
+404,1967,Cauliflowers and broccoli,7306,223067
+405,1968,Cauliflowers and broccoli,7044,224693
+406,1969,Cauliflowers and broccoli,6877,222469
+407,1970,Cauliflowers and broccoli,6653,227597
+408,1971,Cauliflowers and broccoli,7409,222820
+409,1972,Cauliflowers and broccoli,7639,221416
+410,1973,Cauliflowers and broccoli,7904,231599
+411,1974,Cauliflowers and broccoli,7734,236320
+412,1975,Cauliflowers and broccoli,7989,227082
+413,1976,Cauliflowers and broccoli,8543,224558
+414,1977,Cauliflowers and broccoli,8480,238683
+415,1978,Cauliflowers and broccoli,8852,235583
+416,1979,Cauliflowers and broccoli,9119,236489
+417,1980,Cauliflowers and broccoli,8792,232929
+418,1981,Cauliflowers and broccoli,8868,245964
+419,1982,Cauliflowers and broccoli,8816,241572
+420,1983,Cauliflowers and broccoli,8798,233764
+421,1984,Cauliflowers and broccoli,8799,260489
+422,1985,Cauliflowers and broccoli,9088,252841
+423,1986,Cauliflowers and broccoli,9201,242544
+424,1987,Cauliflowers and broccoli,8863,252378
+425,1988,Cauliflowers and broccoli,9562,252991
+426,1989,Cauliflowers and broccoli,10245,250652
+427,1990,Cauliflowers and broccoli,8189,211642
+428,1991,Cauliflowers and broccoli,6891,240686
+429,1992,Cauliflowers and broccoli,6337,237355
+430,1993,Cauliflowers and broccoli,5874,257137
+431,1994,Cauliflowers and broccoli,6195,252006
+432,1995,Cauliflowers and broccoli,5959,261593
+433,1996,Cauliflowers and broccoli,6011,270354
+434,1997,Cauliflowers and broccoli,5865,266815
+435,1998,Cauliflowers and broccoli,5878,267331
+436,1999,Cauliflowers and broccoli,5820,269517
+437,2000,Cauliflowers and broccoli,5259,263105
+438,2001,Cauliflowers and broccoli,5030,260121
+439,2002,Cauliflowers and broccoli,7243,220707
+440,2003,Cauliflowers and broccoli,7660,219497
+441,2004,Cauliflowers and broccoli,7740,235483
+442,2005,Cauliflowers and broccoli,7176,246027
+443,2006,Cauliflowers and broccoli,7241,219845
+444,2007,Cauliflowers and broccoli,6517,231298
+445,2008,Cauliflowers and broccoli,7033,221955
+446,2009,Cauliflowers and broccoli,6817,246573
+447,2010,Cauliflowers and broccoli,6548,232097
+448,2011,Cauliflowers and broccoli,6479,222466
+449,2012,Cauliflowers and broccoli,6614,267148
+450,2013,Cauliflowers and broccoli,6412,240303
+451,2014,Cauliflowers and broccoli,6139,242978
+452,2015,Cauliflowers and broccoli,5733,235205
+453,2016,Cauliflowers and broccoli,5463,224111
+454,2017,Cauliflowers and broccoli,6100,217313
+455,2018,Cauliflowers and broccoli,6100,206721
+456,2019,Cauliflowers and broccoli,5810,220551
+457,2020,Cauliflowers and broccoli,5800,211517
+458,2021,Cauliflowers and broccoli,5710,221664
+459,2003,Cherries,5366,62218
+460,2004,Cherries,5504,70996
+461,2005,Cherries,5528,50490
+462,2006,Cherries,5561,56891
+463,2007,Cherries,5443,63296
+464,2008,Cherries,5449,46185
+465,2009,Cherries,5440,72542
+466,2010,Cherries,5389,57211
+467,2011,Cherries,5338,69380
+468,2012,Cherries,5181,44403
+469,2013,Cherries,5207,46979
+470,2014,Cherries,5192,76215
+471,2015,Cherries,5182,60683
+472,2016,Cherries,5126,57302
+473,2017,Cherries,6040,27377
+474,2018,Cherries,6030,73333
+475,2019,Cherries,6050,73636
+476,2020,Cherries,6020,61130
+477,2021,Cherries,6020,45415
+478,1996,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",34,205148
+479,1997,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",36,208147
+480,1998,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",31,211146
+481,1999,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",30,214145
+482,2000,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",31,217144
+483,2001,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",31,230441
+484,2002,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",31,262442
+485,2003,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",30,308025
+486,2004,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",34,354850
+487,2006,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",37,486757
+488,2007,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",35,590286
+489,2008,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",41,464390
+490,2009,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",43,478372
+491,2010,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",39,553590
+492,2011,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",43,540698
+493,2012,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",64,817969
+494,2013,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",64,1174219
+495,2014,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",72,1168889
+496,2015,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",74,1010653
+497,2016,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",82,1143293
+498,2017,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",94,1307340
+499,2018,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",110,1332727
+500,2019,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",110,1269091
+501,2020,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",110,1450909
+502,2021,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",120,1481667
+503,1961,Cucumbers and gherkins,8881,109774
+504,1962,Cucumbers and gherkins,9851,78395
+505,1963,Cucumbers and gherkins,11220,146581
+506,1964,Cucumbers and gherkins,9392,125707
+507,1965,Cucumbers and gherkins,8522,101188
+508,1966,Cucumbers and gherkins,8868,176025
+509,1967,Cucumbers and gherkins,8758,161798
+510,1968,Cucumbers and gherkins,7310,154424
+511,1969,Cucumbers and gherkins,6285,164361
+512,1970,Cucumbers and gherkins,6537,194722
+513,1971,Cucumbers and gherkins,6177,190005
+514,1972,Cucumbers and gherkins,6151,250839
+515,1973,Cucumbers and gherkins,6079,244144
+516,1974,Cucumbers and gherkins,5302,227727
+517,1975,Cucumbers and gherkins,5363,289101
+518,1976,Cucumbers and gherkins,5055,248406
+519,1977,Cucumbers and gherkins,5209,277978
+520,1978,Cucumbers and gherkins,4743,227350
+521,1979,Cucumbers and gherkins,4710,296958
+522,1980,Cucumbers and gherkins,4284,258200
+523,1981,Cucumbers and gherkins,4458,315825
+524,1982,Cucumbers and gherkins,4361,347968
+525,1983,Cucumbers and gherkins,4064,359865
+526,1984,Cucumbers and gherkins,3482,290307
+527,1985,Cucumbers and gherkins,3625,354505
+528,1986,Cucumbers and gherkins,3852,353165
+529,1987,Cucumbers and gherkins,3540,337675
+530,1988,Cucumbers and gherkins,4444,334388
+531,1989,Cucumbers and gherkins,4601,340835
+532,1990,Cucumbers and gherkins,3197,389615
+533,1991,Cucumbers and gherkins,3132,395128
+534,1992,Cucumbers and gherkins,3276,432201
+535,1993,Cucumbers and gherkins,2972,398038
+536,1994,Cucumbers and gherkins,3432,433581
+537,1995,Cucumbers and gherkins,3831,448990
+538,1996,Cucumbers and gherkins,3823,448266
+539,1997,Cucumbers and gherkins,3841,461830
+540,1998,Cucumbers and gherkins,3571,510865
+541,1999,Cucumbers and gherkins,3535,549635
+542,2000,Cucumbers and gherkins,3441,604606
+543,2001,Cucumbers and gherkins,3442,610151
+544,2002,Cucumbers and gherkins,3300,723591
+545,2003,Cucumbers and gherkins,3569,650712
+546,2004,Cucumbers and gherkins,2999,683238
+547,2005,Cucumbers and gherkins,3269,671490
+548,2006,Cucumbers and gherkins,3028,730634
+549,2007,Cucumbers and gherkins,3224,758976
+550,2008,Cucumbers and gherkins,3086,766769
+551,2009,Cucumbers and gherkins,3015,873224
+552,2010,Cucumbers and gherkins,3111,780514
+553,2011,Cucumbers and gherkins,2931,851610
+554,2012,Cucumbers and gherkins,2951,828014
+555,2013,Cucumbers and gherkins,2759,809819
+556,2014,Cucumbers and gherkins,2947,865490
+557,2015,Cucumbers and gherkins,2731,873145
+558,2016,Cucumbers and gherkins,2734,954334
+559,2017,Cucumbers and gherkins,2345,1094623
+560,2018,Cucumbers and gherkins,2410,1110332
+561,2019,Cucumbers and gherkins,2300,1086609
+562,2020,Cucumbers and gherkins,2150,1009163
+563,2021,Cucumbers and gherkins,2280,1064912
+564,1991,Currants,21270,59406
+565,1992,Currants,19820,85772
+566,1993,Currants,20000,83500
+567,1994,Currants,20220,79130
+568,1996,Currants,20720,71557
+569,1997,Currants,17300,70094
+570,1998,Currants,19400,70202
+571,1999,Currants,20000,77700
+572,2004,Currants,10000,60000
+573,2005,Currants,2100,57143
+574,2006,Currants,2099,53545
+575,2007,Currants,2043,43113
+576,2008,Currants,2025,52281
+577,2009,Currants,2148,55154
+578,2010,Currants,2140,55734
+579,2011,Currants,2133,44946
+580,2012,Currants,2292,46963
+581,2013,Currants,2388,53007
+582,2014,Currants,2459,52412
+583,2015,Currants,2401,57768
+584,2016,Currants,2333,59974
+585,2017,Currants,2338,53336
+586,2018,Currants,2250,71511
+587,2019,Currants,2140,50327
+588,2020,Currants,2120,56462
+589,2021,Currants,2130,64648
+590,1961,"Flax, processed but not spun",25701,3319
+591,1962,"Flax, processed but not spun",26570,3627
+592,1963,"Flax, processed but not spun",17752,3393
+593,1964,"Flax, processed but not spun",12089,3382
+594,1965,"Flax, processed but not spun",14445,4260
+595,1966,"Flax, processed but not spun",16098,4121
+596,1967,"Flax, processed but not spun",15063,4656
+597,1968,"Flax, processed but not spun",10762,5460
+598,1969,"Flax, processed but not spun",10446,5558
+599,1970,"Flax, processed but not spun",10649,5361
+600,1971,"Flax, processed but not spun",11166,4730
+601,1972,"Flax, processed but not spun",8995,5574
+602,1973,"Flax, processed but not spun",3847,11183
+603,1974,"Flax, processed but not spun",2198,12247
+604,1975,"Flax, processed but not spun",1951,9282
+605,1976,"Flax, processed but not spun",1395,4301
+606,1977,"Flax, processed but not spun",559,7156
+607,1978,"Flax, processed but not spun",472,6356
+608,1979,"Flax, processed but not spun",286,5559
+609,1991,Gooseberries,13045,57305
+610,1992,Gooseberries,10575,77877
+611,1993,Gooseberries,11225,74833
+612,1994,Gooseberries,11635,70821
+613,1997,Gooseberries,11400,58022
+614,1998,Gooseberries,12600,60079
+615,1999,Gooseberries,12500,67840
+616,2005,Gooseberries,12300,67591
+617,2006,Gooseberries,12300,67591
+618,2007,Gooseberries,12400,66660
+619,2008,Gooseberries,12300,67052
+620,2012,Gooseberries,12500,68693
+621,2014,Gooseberries,13600,68160
+622,1991,Grapes,99405,142850
+623,1992,Grapes,100365,179246
+624,1993,Grapes,102898,133336
+625,1994,Grapes,103727,146539
+626,1995,Grapes,103266,143997
+627,1996,Grapes,102428,123306
+628,1997,Grapes,102475,111910
+629,1998,Grapes,101665,143865
+630,1999,Grapes,101330,163722
+631,2000,Grapes,101546,134028
+632,2001,Grapes,99714,122952
+633,2002,Grapes,98772,138501
+634,2003,Grapes,98270,114989
+635,2004,Grapes,98403,120322
+636,2005,Grapes,98875,146549
+637,2006,Grapes,99172,123493
+638,2007,Grapes,99702,140479
+639,2008,Grapes,99744,135497
+640,2009,Grapes,100101,123375
+641,2010,Grapes,99907,95339
+642,2011,Grapes,99747,125317
+643,2012,Grapes,99584,123213
+644,2013,Grapes,99488,114587
+645,2014,Grapes,100075,124407
+646,2015,Grapes,99910,120011
+647,2016,Grapes,100039,122509
+648,2017,Grapes,100255,101166
+649,2018,Grapes,100180,140108
+650,2019,Grapes,100520,111918
+651,2020,Grapes,100710,114144
+652,2021,Grapes,100710,114335
+653,1961,Hempseed,3461,1679
+654,1962,Hempseed,4793,1784
+655,1963,Hempseed,4372,2194
+656,1964,Hempseed,4548,2208
+657,1965,Hempseed,2903,2005
+658,1966,Hempseed,2598,2360
+659,1967,Hempseed,2048,1631
+660,1968,Hempseed,1875,1776
+661,1969,Hempseed,1462,1806
+662,1970,Hempseed,1698,1443
+663,1971,Hempseed,1548,1350
+664,1972,Hempseed,474,1498
+665,1961,Hop cones,9903,14012
+666,1963,Hop cones,11166,18581
+667,1967,Hop cones,13749,18435
+668,1968,Hop cones,13984,17632
+669,1969,Hop cones,13928,18242
+670,1970,Hop cones,14926,19609
+671,1971,Hop cones,17511,15341
+672,1977,Hop cones,21313,18751
+673,1978,Hop cones,19703,16598
+674,1979,Hop cones,19419,17963
+675,1990,Hop cones,22400,13583
+676,1991,Hop cones,22478,16221
+677,1992,Hop cones,22760,12803
+678,1993,Hop cones,23016,18452
+679,1994,Hop cones,21930,13112
+680,1995,Hop cones,21804,15652
+681,1996,Hop cones,21813,18114
+682,1997,Hop cones,21383,15940
+683,1998,Hop cones,19845,15581
+684,1999,Hop cones,18297,15256
+685,2000,Hop cones,18724,15649
+686,2001,Hop cones,19039,16672
+687,2002,Hop cones,18367,17571
+688,2003,Hop cones,17605,14402
+689,2004,Hop cones,17397,19085
+690,2005,Hop cones,17231,19997
+691,2006,Hop cones,17214,16562
+692,2007,Hop cones,17747,18110
+693,2008,Hop cones,18780,21126
+694,2009,Hop cones,18450,16990
+695,2010,Hop cones,18386,18628
+696,2011,Hop cones,18588,20480
+697,2012,Hop cones,17154,20073
+698,2013,Hop cones,16622,16564
+699,2014,Hop cones,17300,22247
+700,2015,Hop cones,18400,15408
+701,2018,Hop cones,20500,20390
+702,2019,Hop cones,20300,23892
+703,2020,Hop cones,20600,22767
+704,2021,Hop cones,20900,22919
+705,1989,Leeks and other alliaceous vegetables,1605,270648
+706,1990,Leeks and other alliaceous vegetables,2296,230971
+707,1991,Leeks and other alliaceous vegetables,1949,246552
+708,1992,Leeks and other alliaceous vegetables,2100,263905
+709,1993,Leeks and other alliaceous vegetables,2068,274110
+710,1994,Leeks and other alliaceous vegetables,2375,271242
+711,1995,Leeks and other alliaceous vegetables,2435,264218
+712,1996,Leeks and other alliaceous vegetables,2567,273564
+713,1997,Leeks and other alliaceous vegetables,2585,275896
+714,1998,Leeks and other alliaceous vegetables,2368,270253
+715,1999,Leeks and other alliaceous vegetables,2424,288936
+716,2000,Leeks and other alliaceous vegetables,2683,220496
+717,2001,Leeks and other alliaceous vegetables,2718,239382
+718,2002,Leeks and other alliaceous vegetables,2687,233416
+719,2003,Leeks and other alliaceous vegetables,2852,228124
+720,2004,Leeks and other alliaceous vegetables,2880,243934
+721,2005,Leeks and other alliaceous vegetables,2913,261184
+722,2006,Leeks and other alliaceous vegetables,3056,288465
+723,2007,Leeks and other alliaceous vegetables,3222,326763
+724,2008,Leeks and other alliaceous vegetables,3379,337934
+725,2009,Leeks and other alliaceous vegetables,3046,324741
+726,2010,Leeks and other alliaceous vegetables,2311,347274
+727,2011,Leeks and other alliaceous vegetables,2399,349371
+728,2012,Leeks and other alliaceous vegetables,2605,446484
+729,2013,Leeks and other alliaceous vegetables,2631,422687
+730,2014,Leeks and other alliaceous vegetables,2346,460993
+731,2015,Leeks and other alliaceous vegetables,2178,410880
+732,2016,Leeks and other alliaceous vegetables,2129,403293
+733,2017,Leeks and other alliaceous vegetables,2621,380542
+734,2018,Leeks and other alliaceous vegetables,2080,370096
+735,2019,Leeks and other alliaceous vegetables,2090,421196
+736,2020,Leeks and other alliaceous vegetables,2260,398097
+737,2021,Leeks and other alliaceous vegetables,2420,385496
+738,1961,"Lentils, dry",12,4167
+739,1962,"Lentils, dry",9,4444
+740,1963,"Lentils, dry",26,5000
+741,1964,"Lentils, dry",21,5238
+742,1965,"Lentils, dry",13,7692
+743,1966,"Lentils, dry",21,2381
+744,1969,Lettuce and chicory,5119,158429
+745,1970,Lettuce and chicory,5320,164923
+746,1971,Lettuce and chicory,6254,161589
+747,1972,Lettuce and chicory,5813,165907
+748,1973,Lettuce and chicory,5115,188078
+749,1974,Lettuce and chicory,4715,181455
+750,1975,Lettuce and chicory,4906,171675
+751,1976,Lettuce and chicory,5029,164225
+752,1977,Lettuce and chicory,5067,173835
+753,1978,Lettuce and chicory,5112,180323
+754,1979,Lettuce and chicory,5099,184179
+755,1980,Lettuce and chicory,4659,194821
+756,1981,Lettuce and chicory,4626,199987
+757,1982,Lettuce and chicory,4508,200004
+758,1983,Lettuce and chicory,4717,196131
+759,1984,Lettuce and chicory,4655,199532
+760,1985,Lettuce and chicory,4321,202895
+761,1986,Lettuce and chicory,4039,178886
+762,1987,Lettuce and chicory,4445,208043
+763,1988,Lettuce and chicory,4299,199958
+764,1989,Lettuce and chicory,4192,219005
+765,1990,Lettuce and chicory,4441,227161
+766,1991,Lettuce and chicory,5500,236364
+767,1992,Lettuce and chicory,6940,188958
+768,1993,Lettuce and chicory,5100,239216
+769,1994,Lettuce and chicory,5650,224071
+770,1995,Lettuce and chicory,5300,237736
+771,1996,Lettuce and chicory,13643,114780
+772,1997,Lettuce and chicory,6024,239958
+773,1998,Lettuce and chicory,6641,240337
+774,1999,Lettuce and chicory,7627,241466
+775,2000,Lettuce and chicory,11074,180405
+776,2001,Lettuce and chicory,10774,178968
+777,2002,Lettuce and chicory,11014,198585
+778,2003,Lettuce and chicory,10999,183769
+779,2004,Lettuce and chicory,12092,220684
+780,2005,Lettuce and chicory,11622,218362
+781,2006,Lettuce and chicory,13389,226576
+782,2007,Lettuce and chicory,13986,222979
+783,2008,Lettuce and chicory,15148,209098
+784,2009,Lettuce and chicory,15190,225756
+785,2010,Lettuce and chicory,14583,208490
+786,2011,Lettuce and chicory,13787,227023
+787,2012,Lettuce and chicory,14832,280806
+788,2013,Lettuce and chicory,13823,248774
+789,2014,Lettuce and chicory,14313,238598
+790,2015,Lettuce and chicory,14150,242455
+791,2016,Lettuce and chicory,14278,233250
+792,2017,Lettuce and chicory,15096,234422
+793,2018,Lettuce and chicory,7800,291667
+794,2019,Lettuce and chicory,7740,310659
+795,2020,Lettuce and chicory,7200,314153
+796,2021,Lettuce and chicory,7160,317388
+797,1961,Linseed,25701,3391
+798,1962,Linseed,26570,3787
+799,1963,Linseed,17752,3764
+800,1964,Linseed,12089,3659
+801,1965,Linseed,14445,4404
+802,1966,Linseed,16098,3991
+803,1967,Linseed,15063,4503
+804,1968,Linseed,10762,4395
+805,1969,Linseed,10446,4753
+806,1970,Linseed,10649,4238
+807,1971,Linseed,11166,4404
+808,1972,Linseed,8995,4146
+809,1973,Linseed,3847,4336
+810,1974,Linseed,2198,3954
+811,1975,Linseed,1951,4377
+812,1976,Linseed,1395,4358
+813,1977,Linseed,559,3685
+814,1978,Linseed,472,953
+815,1979,Linseed,286,5559
+816,1991,Linseed,8000,15000
+817,1992,Linseed,77600,9021
+818,1993,Linseed,30100,9967
+819,1994,Linseed,28000,9643
+820,1995,Linseed,54000,8519
+821,1996,Linseed,86000,8605
+822,1997,Linseed,95027,12207
+823,1998,Linseed,111048,17470
+824,1999,Linseed,199778,8009
+825,2000,Linseed,102500,8868
+826,2001,Linseed,33000,14485
+827,2002,Linseed,10300,16602
+828,2003,Linseed,16200,17778
+829,2004,Linseed,12900,17953
+830,2005,Linseed,14000,18121
+831,2006,Linseed,13900,16115
+832,2007,Linseed,6300,9524
+833,2008,Linseed,4200,9524
+834,2009,Linseed,4100,9756
+835,2010,Linseed,6859,10206
+836,2011,Linseed,4600,13043
+837,2012,Linseed,4200,14286
+838,2013,Linseed,3700,16216
+839,2014,Linseed,4200,14286
+840,2015,Linseed,5000,14000
+841,2016,Linseed,4200,14286
+842,2017,Linseed,4600,15217
+843,1961,Lupins,18591,7207
+844,1962,Lupins,19688,8198
+845,1963,Lupins,19604,6168
+846,1992,Lupins,1000,12000
+847,1993,Lupins,500,12000
+848,2003,Lupins,45627,13150
+849,2004,Lupins,35818,12843
+850,2005,Lupins,38600,12953
+851,2006,Lupins,32800,12805
+852,2007,Lupins,25246,12675
+853,2008,Lupins,19869,12582
+854,2009,Lupins,19360,12913
+855,2010,Lupins,24006,12738
+856,2011,Lupins,21500,12837
+857,2012,Lupins,17900,17598
+858,2013,Lupins,17400,17874
+859,2014,Lupins,21400,19065
+860,2015,Lupins,29600,12939
+861,2016,Lupins,28600,17483
+862,2017,Lupins,29000,18207
+863,2018,Lupins,23400,9530
+864,2019,Lupins,21000,12190
+865,2020,Lupins,22300,15291
+866,2021,Lupins,29000,18414
+867,1961,Maize (corn),9024,28979
+868,1962,Maize (corn),14004,32319
+869,1963,Maize (corn),14554,34526
+870,1964,Maize (corn),19296,33691
+871,1965,Maize (corn),28003,35354
+872,1966,Maize (corn),32018,40115
+873,1967,Maize (corn),42024,46993
+874,1968,Maize (corn),59046,48943
+875,1969,Maize (corn),82773,48750
+876,1970,Maize (corn),104750,49743
+877,1971,Maize (corn),119650,50396
+878,1972,Maize (corn),126847,46595
+879,1973,Maize (corn),109909,53353
+880,1974,Maize (corn),108683,48195
+881,1975,Maize (corn),96506,55169
+882,1976,Maize (corn),102546,46782
+883,1977,Maize (corn),100041,58107
+884,1978,Maize (corn),117163,52868
+885,1979,Maize (corn),116533,64057
+886,1980,Maize (corn),119749,56435
+887,1981,Maize (corn),129626,64444
+888,1982,Maize (corn),160577,65717
+889,1983,Maize (corn),169103,55224
+890,1984,Maize (corn),181618,56516
+891,1985,Maize (corn),181193,66479
+892,1986,Maize (corn),187458,69549
+893,1987,Maize (corn),194450,62600
+894,1988,Maize (corn),199418,77095
+895,1989,Maize (corn),208932,75310
+896,1990,Maize (corn),229000,67762
+897,1991,Maize (corn),283052,68432
+898,1992,Maize (corn),295658,72348
+899,1993,Maize (corn),331115,80227
+900,1994,Maize (corn),345439,70808
+901,1995,Maize (corn),325065,73664
+902,1996,Maize (corn),372116,78272
+903,1997,Maize (corn),368267,86577
+904,1998,Maize (corn),341029,81561
+905,1999,Maize (corn),370735,87850
+906,2000,Maize (corn),360841,92119
+907,2001,Maize (corn),396544,88376
+908,2002,Maize (corn),398745,93755
+909,2003,Maize (corn),463355,73845
+910,2004,Maize (corn),461697,90966
+911,2005,Maize (corn),443100,92139
+912,2006,Maize (corn),401000,80307
+913,2007,Maize (corn),403210,94475
+914,2008,Maize (corn),520478,98099
+915,2009,Maize (corn),464333,97500
+916,2010,Maize (corn),466591,90261
+917,2011,Maize (corn),487900,106243
+918,2012,Maize (corn),526200,104802
+919,2013,Maize (corn),497000,88276
+920,2014,Maize (corn),481300,106838
+921,2015,Maize (corn),455500,87223
+922,2016,Maize (corn),416300,96512
+923,2017,Maize (corn),432000,105269
+924,2018,Maize (corn),410900,81390
+925,2019,Maize (corn),416000,88096
+926,2020,Maize (corn),419300,95874
+927,2021,Maize (corn),430700,103608
+928,1961,Mixed grain,721349,23535
+929,1962,Mixed grain,795379,28019
+930,1963,Mixed grain,733055,27053
+931,1964,Mixed grain,739261,28783
+932,1965,Mixed grain,672029,26953
+933,1966,Mixed grain,663372,26890
+934,1967,Mixed grain,637618,31036
+935,1968,Mixed grain,638016,32239
+936,1969,Mixed grain,637877,31591
+937,1970,Mixed grain,579462,27079
+938,1971,Mixed grain,515345,34175
+939,1972,Mixed grain,479632,34380
+940,1973,Mixed grain,446662,33626
+941,1974,Mixed grain,412129,37274
+942,1975,Mixed grain,385527,34167
+943,1976,Mixed grain,316312,29263
+944,1977,Mixed grain,295435,33957
+945,1978,Mixed grain,262830,37479
+946,1979,Mixed grain,227507,36443
+947,1980,Mixed grain,201475,35922
+948,1981,Mixed grain,176229,35964
+949,1982,Mixed grain,251072,39279
+950,1983,Mixed grain,157486,32540
+951,1984,Mixed grain,151100,40796
+952,1985,Mixed grain,145338,42142
+953,1986,Mixed grain,137218,40943
+954,1987,Mixed grain,109951,39329
+955,1988,Mixed grain,93362,40648
+956,1989,Mixed grain,87686,37959
+957,1990,Mixed grain,68411,45527
+958,1991,Mixed grain,67721,46981
+959,1992,Mixed grain,64741,39310
+960,1993,Mixed grain,58104,44330
+961,1994,Mixed grain,63010,41445
+962,1995,Mixed grain,54999,41817
+963,1996,Mixed grain,57265,48879
+964,1997,Mixed grain,58587,46438
+965,1998,Mixed grain,48216,46737
+966,1999,Mixed grain,50089,47302
+967,2000,Mixed grain,39139,45664
+968,2001,Mixed grain,36366,46778
+969,2002,Mixed grain,35280,44508
+970,2003,Mixed grain,44769,42347
+971,2004,Mixed grain,33961,50509
+972,2005,Mixed grain,35500,44507
+973,2006,Mixed grain,34000,43912
+974,2007,Mixed grain,29728,41327
+975,2008,Mixed grain,27551,45158
+976,2009,Mixed grain,27108,48888
+977,2010,Mixed grain,15808,39167
+978,2011,Mixed grain,16200,41790
+979,2012,Mixed grain,31900,47492
+980,2013,Mixed grain,17400,46724
+981,2014,Mixed grain,14100,47589
+982,2015,Mixed grain,14200,43662
+983,2016,Mixed grain,10800,41944
+984,2017,Mixed grain,11400,37982
+985,2018,Mixed grain,11300,37345
+986,2019,Mixed grain,8900,35618
+987,2020,Mixed grain,8700,37011
+988,2021,Mixed grain,7200,36111
+989,1961,Mustard seed,5368,6544
+990,1962,Mustard seed,14920,8911
+991,1963,Mustard seed,9793,6382
+992,1964,Mustard seed,2939,6536
+993,1965,Mustard seed,2137,8690
+994,1966,Mustard seed,4875,7785
+995,1967,Mustard seed,3814,10071
+996,1968,Mustard seed,3726,9979
+997,1969,Mustard seed,4653,9613
+998,1970,Mustard seed,2258,8977
+999,1971,Mustard seed,2759,10616
+1000,1972,Mustard seed,4006,12726
+1001,1973,Mustard seed,3469,12698
+1002,1974,Mustard seed,4204,14593
+1003,1975,Mustard seed,3522,12118
+1004,1976,Mustard seed,2891,10287
+1005,1977,Mustard seed,4209,11877
+1006,1978,Mustard seed,4488,16580
+1007,1979,Mustard seed,5799,15487
+1008,1980,Mustard seed,4654,11927
+1009,1981,Mustard seed,4549,12128
+1010,1982,Mustard seed,4474,16160
+1011,1983,Mustard seed,6093,11124
+1012,1984,Mustard seed,8188,12231
+1013,1985,Mustard seed,5764,16218
+1014,1986,Mustard seed,5483,13841
+1015,1987,Mustard seed,5364,12744
+1016,1988,Mustard seed,4806,14114
+1017,1989,Mustard seed,6308,15016
+1018,2012,Mustard seed,8000,13125
+1019,2013,Mustard seed,8000,13125
+1020,1961,Oats,1073586,25789
+1021,1962,Oats,1177606,28755
+1022,1963,Oats,1085496,28814
+1023,1964,Oats,1061730,29035
+1024,1965,Oats,986779,28475
+1025,1966,Oats,1038601,29303
+1026,1967,Oats,1077720,33068
+1027,1968,Oats,1076833,34889
+1028,1969,Oats,1132218,33712
+1029,1970,Oats,1034691,29395
+1030,1971,Oats,1065536,36076
+1031,1972,Oats,1054761,35818
+1032,1973,Oats,1059364,36351
+1033,1974,Oats,1073451,41027
+1034,1975,Oats,1163628,36311
+1035,1976,Oats,1045445,28727
+1036,1977,Oats,945801,33048
+1037,1978,Oats,902254,42094
+1038,1979,Oats,864446,40786
+1039,1980,Oats,846205,38285
+1040,1981,Oats,853526,38381
+1041,1982,Oats,941072,42086
+1042,1983,Oats,763846,33585
+1043,1984,Oats,715642,44806
+1044,1985,Oats,761719,46657
+1045,1986,Oats,668227,44033
+1046,1987,Oats,608192,44670
+1047,1988,Oats,622039,40922
+1048,1989,Oats,561610,35781
+1049,1990,Oats,472721,44535
+1050,1991,Oats,379678,49173
+1051,1992,Oats,357508,36758
+1052,1993,Oats,358639,48255
+1053,1994,Oats,391857,42440
+1054,1995,Oats,309194,45940
+1055,1996,Oats,301888,53198
+1056,1997,Oats,312388,51187
+1057,1998,Oats,264143,48435
+1058,1999,Oats,267754,50016
+1059,2000,Oats,237020,45870
+1060,2001,Oats,233324,49332
+1061,2002,Oats,233148,43571
+1062,2003,Oats,261927,45877
+1063,2004,Oats,227829,52047
+1064,2005,Oats,209900,45908
+1065,2006,Oats,183700,45177
+1066,2007,Oats,177831,40934
+1067,2008,Oats,179485,44192
+1068,2009,Oats,162593,50776
+1069,2010,Oats,141433,42285
+1070,2011,Oats,143400,43752
+1071,2012,Oats,145400,52029
+1072,2013,Oats,131500,47734
+1073,2014,Oats,123800,50654
+1074,2015,Oats,125700,45052
+1075,2016,Oats,115500,46398
+1076,2017,Oats,128100,45004
+1077,2018,Oats,140400,41140
+1078,2019,Oats,126300,41116
+1079,2020,Oats,157100,45952
+1080,2021,Oats,177300,43232
+1081,1961,"Onions and shallots, dry (excluding dehydrated)",4026,176567
+1082,1962,"Onions and shallots, dry (excluding dehydrated)",4199,161884
+1083,1963,"Onions and shallots, dry (excluding dehydrated)",5072,138764
+1084,1964,"Onions and shallots, dry (excluding dehydrated)",5414,138971
+1085,1965,"Onions and shallots, dry (excluding dehydrated)",4962,194875
+1086,1966,"Onions and shallots, dry (excluding dehydrated)",3631,220909
+1087,1967,"Onions and shallots, dry (excluding dehydrated)",3770,234782
+1088,1968,"Onions and shallots, dry (excluding dehydrated)",3744,206106
+1089,1969,"Onions and shallots, dry (excluding dehydrated)",3432,163902
+1090,1970,"Onions and shallots, dry (excluding dehydrated)",4223,242269
+1091,1971,"Onions and shallots, dry (excluding dehydrated)",3828,203793
+1092,1972,"Onions and shallots, dry (excluding dehydrated)",3958,237236
+1093,1973,"Onions and shallots, dry (excluding dehydrated)",3833,147310
+1094,1974,"Onions and shallots, dry (excluding dehydrated)",4141,228739
+1095,1975,"Onions and shallots, dry (excluding dehydrated)",4305,145928
+1096,1976,"Onions and shallots, dry (excluding dehydrated)",4977,113858
+1097,1977,"Onions and shallots, dry (excluding dehydrated)",5401,221603
+1098,1978,"Onions and shallots, dry (excluding dehydrated)",5649,213896
+1099,1979,"Onions and shallots, dry (excluding dehydrated)",5786,188216
+1100,1980,"Onions and shallots, dry (excluding dehydrated)",6062,210777
+1101,1981,"Onions and shallots, dry (excluding dehydrated)",6338,233004
+1102,1982,"Onions and shallots, dry (excluding dehydrated)",6036,221216
+1103,1983,"Onions and shallots, dry (excluding dehydrated)",5879,234237
+1104,1984,"Onions and shallots, dry (excluding dehydrated)",6631,265117
+1105,1985,"Onions and shallots, dry (excluding dehydrated)",6468,297413
+1106,1986,"Onions and shallots, dry (excluding dehydrated)",6431,289213
+1107,1987,"Onions and shallots, dry (excluding dehydrated)",6452,313153
+1108,1988,"Onions and shallots, dry (excluding dehydrated)",7332,287220
+1109,1989,"Onions and shallots, dry (excluding dehydrated)",7874,288193
+1110,1990,"Onions and shallots, dry (excluding dehydrated)",6741,315039
+1111,1991,"Onions and shallots, dry (excluding dehydrated)",4399,353558
+1112,1992,"Onions and shallots, dry (excluding dehydrated)",5710,352002
+1113,1993,"Onions and shallots, dry (excluding dehydrated)",5263,411404
+1114,1994,"Onions and shallots, dry (excluding dehydrated)",5773,375792
+1115,1995,"Onions and shallots, dry (excluding dehydrated)",6590,358774
+1116,1996,"Onions and shallots, dry (excluding dehydrated)",6906,404257
+1117,1997,"Onions and shallots, dry (excluding dehydrated)",5829,388851
+1118,1998,"Onions and shallots, dry (excluding dehydrated)",6775,383866
+1119,1999,"Onions and shallots, dry (excluding dehydrated)",6618,395946
+1120,2000,"Onions and shallots, dry (excluding dehydrated)",7526,420781
+1121,2001,"Onions and shallots, dry (excluding dehydrated)",7197,399162
+1122,2002,"Onions and shallots, dry (excluding dehydrated)",6911,423477
+1123,2003,"Onions and shallots, dry (excluding dehydrated)",7865,345226
+1124,2004,"Onions and shallots, dry (excluding dehydrated)",9111,467411
+1125,2005,"Onions and shallots, dry (excluding dehydrated)",7907,461002
+1126,2006,"Onions and shallots, dry (excluding dehydrated)",8525,395623
+1127,2007,"Onions and shallots, dry (excluding dehydrated)",8388,450213
+1128,2008,"Onions and shallots, dry (excluding dehydrated)",8942,455829
+1129,2009,"Onions and shallots, dry (excluding dehydrated)",8632,501664
+1130,2010,"Onions and shallots, dry (excluding dehydrated)",8762,441810
+1131,2011,"Onions and shallots, dry (excluding dehydrated)",9442,535473
+1132,2012,"Onions and shallots, dry (excluding dehydrated)",9512,509495
+1133,2013,"Onions and shallots, dry (excluding dehydrated)",9691,418590
+1134,2014,"Onions and shallots, dry (excluding dehydrated)",10224,489507
+1135,2015,"Onions and shallots, dry (excluding dehydrated)",10324,441045
+1136,2016,"Onions and shallots, dry (excluding dehydrated)",11294,462792
+1137,2017,"Onions and shallots, dry (excluding dehydrated)",11781,459514
+1138,2018,"Onions and shallots, dry (excluding dehydrated)",13580,370515
+1139,2019,"Onions and shallots, dry (excluding dehydrated)",14390,421897
+1140,2020,"Onions and shallots, dry (excluding dehydrated)",14730,427447
+1141,2021,"Onions and shallots, dry (excluding dehydrated)",16580,445440
+1142,2006,"Onions and shallots, green",1368,328034
+1143,2007,"Onions and shallots, green",1367,368830
+1144,2008,"Onions and shallots, green",1644,345517
+1145,2009,"Onions and shallots, green",1633,444605
+1146,2010,"Onions and shallots, green",1698,353139
+1147,2011,"Onions and shallots, green",1949,388558
+1148,2012,"Onions and shallots, green",1965,527471
+1149,2013,"Onions and shallots, green",2005,434828
+1150,2014,"Onions and shallots, green",2191,407325
+1151,2015,"Onions and shallots, green",2297,426282
+1152,2016,"Onions and shallots, green",2269,413521
+1153,2017,"Onions and shallots, green",2285,400888
+1154,1961,"Other beans, green",10754,79730
+1155,1962,"Other beans, green",11824,73789
+1156,1963,"Other beans, green",12068,91308
+1157,1964,"Other beans, green",12381,84367
+1158,1965,"Other beans, green",9831,77667
+1159,1966,"Other beans, green",11175,96242
+1160,1967,"Other beans, green",11203,100948
+1161,1968,"Other beans, green",8818,94978
+1162,1969,"Other beans, green",9372,82613
+1163,1970,"Other beans, green",10207,94523
+1164,1971,"Other beans, green",10272,80091
+1165,1972,"Other beans, green",9252,88789
+1166,1973,"Other beans, green",9057,83560
+1167,1974,"Other beans, green",9704,91538
+1168,1975,"Other beans, green",9509,77599
+1169,1976,"Other beans, green",9560,54434
+1170,1977,"Other beans, green",9517,92191
+1171,1978,"Other beans, green",9696,74401
+1172,1979,"Other beans, green",9153,94347
+1173,1980,"Other beans, green",8252,70458
+1174,1981,"Other beans, green",8895,86551
+1175,1982,"Other beans, green",8947,80292
+1176,1983,"Other beans, green",7926,70458
+1177,1984,"Other beans, green",8242,79657
+1178,1985,"Other beans, green",8276,89773
+1179,1986,"Other beans, green",8611,86535
+1180,1987,"Other beans, green",7697,83106
+1181,1988,"Other beans, green",8707,86236
+1182,1989,"Other beans, green",8626,81013
+1183,1990,"Other beans, green",6753,70280
+1184,1991,"Other beans, green",5261,90852
+1185,1992,"Other beans, green",5913,100073
+1186,1993,"Other beans, green",4305,108606
+1187,1994,"Other beans, green",3999,95331
+1188,1995,"Other beans, green",4739,92431
+1189,1996,"Other beans, green",4828,100673
+1190,1997,"Other beans, green",4482,102827
+1191,1998,"Other beans, green",4489,101773
+1192,1999,"Other beans, green",4149,106840
+1193,2000,"Other beans, green",4412,107491
+1194,2001,"Other beans, green",4255,111873
+1195,2002,"Other beans, green",4396,113287
+1196,2003,"Other beans, green",4513,84917
+1197,2004,"Other beans, green",4433,106977
+1198,2005,"Other beans, green",4065,106086
+1199,2006,"Other beans, green",4425,94316
+1200,2007,"Other beans, green",4302,110232
+1201,2008,"Other beans, green",4775,103162
+1202,2009,"Other beans, green",4293,103972
+1203,2010,"Other beans, green",3925,105473
+1204,2011,"Other beans, green",3395,115190
+1205,2012,"Other beans, green",4201,108046
+1206,2013,"Other beans, green",4679,107698
+1207,2014,"Other beans, green",4130,114455
+1208,2015,"Other beans, green",4146,114439
+1209,2016,"Other beans, green",4158,109750
+1210,2017,"Other beans, green",4508,114173
+1211,2018,"Other beans, green",4970,82857
+1212,2019,"Other beans, green",4060,97808
+1213,2020,"Other beans, green",3940,104975
+1214,2021,"Other beans, green",4780,108682
+1215,2007,Other berries and fruits of the genus vaccinium n.e.c.,80,37375
+1216,2008,Other berries and fruits of the genus vaccinium n.e.c.,76,23289
+1217,2009,Other berries and fruits of the genus vaccinium n.e.c.,125,17920
+1218,2010,Other berries and fruits of the genus vaccinium n.e.c.,89,24607
+1219,2011,Other berries and fruits of the genus vaccinium n.e.c.,142,21408
+1220,2012,Other berries and fruits of the genus vaccinium n.e.c.,1052,25608
+1221,2013,Other berries and fruits of the genus vaccinium n.e.c.,1171,27395
+1222,2014,Other berries and fruits of the genus vaccinium n.e.c.,1634,30900
+1223,2015,Other berries and fruits of the genus vaccinium n.e.c.,1748,34376
+1224,2016,Other berries and fruits of the genus vaccinium n.e.c.,1960,29469
+1225,2017,Other berries and fruits of the genus vaccinium n.e.c.,2123,35111
+1226,2018,Other berries and fruits of the genus vaccinium n.e.c.,2840,25845
+1227,2019,Other berries and fruits of the genus vaccinium n.e.c.,2970,20774
+1228,2020,Other berries and fruits of the genus vaccinium n.e.c.,3010,18007
+1229,2021,Other berries and fruits of the genus vaccinium n.e.c.,2930,31160
+1230,1961,"Other oil seeds, n.e.c.",1612,8331
+1231,1962,"Other oil seeds, n.e.c.",8788,10977
+1232,1963,"Other oil seeds, n.e.c.",6367,6443
+1233,1964,"Other oil seeds, n.e.c.",3504,11946
+1234,1965,"Other oil seeds, n.e.c.",4569,13533
+1235,1966,"Other oil seeds, n.e.c.",3694,13649
+1236,1967,"Other oil seeds, n.e.c.",2211,14270
+1237,1968,"Other oil seeds, n.e.c.",1091,14180
+1238,1969,"Other oil seeds, n.e.c.",1100,8764
+1239,1970,"Other oil seeds, n.e.c.",1212,10091
+1240,1971,"Other oil seeds, n.e.c.",1515,11696
+1241,1972,"Other oil seeds, n.e.c.",2332,10896
+1242,1973,"Other oil seeds, n.e.c.",1149,10914
+1243,1974,"Other oil seeds, n.e.c.",372,14624
+1244,1975,"Other oil seeds, n.e.c.",558,12097
+1245,1977,"Other oil seeds, n.e.c.",2509,10183
+1246,1978,"Other oil seeds, n.e.c.",1499,13229
+1247,1979,"Other oil seeds, n.e.c.",1142,12907
+1248,1980,"Other oil seeds, n.e.c.",823,13645
+1249,1981,"Other oil seeds, n.e.c.",783,10115
+1250,1982,"Other oil seeds, n.e.c.",1010,10891
+1251,1983,"Other oil seeds, n.e.c.",1268,6869
+1252,1984,"Other oil seeds, n.e.c.",1305,10927
+1253,1985,"Other oil seeds, n.e.c.",1117,9615
+1254,1986,"Other oil seeds, n.e.c.",928,10205
+1255,1987,"Other oil seeds, n.e.c.",1069,13564
+1256,1988,"Other oil seeds, n.e.c.",1414,12284
+1257,1989,"Other oil seeds, n.e.c.",1477,8016
+1258,1961,Other pulses n.e.c.,21474,21714
+1259,1962,Other pulses n.e.c.,26407,22873
+1260,1963,Other pulses n.e.c.,23541,23051
+1261,2003,Other pulses n.e.c.,5323,41561
+1262,2004,Other pulses n.e.c.,4692,42177
+1263,2005,Other pulses n.e.c.,4200,42778
+1264,2006,Other pulses n.e.c.,3900,43378
+1265,2007,Other pulses n.e.c.,3877,43979
+1266,2008,Other pulses n.e.c.,5300,44579
+1267,2009,Other pulses n.e.c.,3300,45179
+1268,1991,Other stone fruits,520,163462
+1269,1995,Other stone fruits,500,76000
+1270,1997,Other stone fruits,490,46939
+1271,2000,Other stone fruits,500,100000
+1272,2002,Other stone fruits,440,77273
+1273,2003,Other stone fruits,474,87300
+1274,2004,Other stone fruits,473,126364
+1275,2005,Other stone fruits,472,98008
+1276,2006,Other stone fruits,473,115264
+1277,2007,Other stone fruits,561,106881
+1278,2008,Other stone fruits,559,76977
+1279,2009,Other stone fruits,559,168229
+1280,2010,Other stone fruits,556,71295
+1281,2011,Other stone fruits,542,98948
+1282,2012,Other stone fruits,497,85895
+1283,2013,Other stone fruits,496,133952
+1284,2014,Other stone fruits,493,136126
+1285,2015,Other stone fruits,491,91853
+1286,2016,Other stone fruits,491,87047
+1287,2017,Other stone fruits,639,42300
+1288,1976,"Other vegetables, fresh n.e.c.",65097,125451
+1289,1977,"Other vegetables, fresh n.e.c.",65648,149723
+1290,1978,"Other vegetables, fresh n.e.c.",65103,143444
+1291,1979,"Other vegetables, fresh n.e.c.",67931,140212
+1292,1980,"Other vegetables, fresh n.e.c.",64281,138766
+1293,1981,"Other vegetables, fresh n.e.c.",66119,151242
+1294,1982,"Other vegetables, fresh n.e.c.",65972,152700
+1295,1983,"Other vegetables, fresh n.e.c.",54415,177341
+1296,1984,"Other vegetables, fresh n.e.c.",59555,180505
+1297,1985,"Other vegetables, fresh n.e.c.",52500,180952
+1298,1986,"Other vegetables, fresh n.e.c.",50000,180000
+1299,1987,"Other vegetables, fresh n.e.c.",47000,180851
+1300,1988,"Other vegetables, fresh n.e.c.",45000,188889
+1301,1989,"Other vegetables, fresh n.e.c.",42000,190476
+1302,1990,"Other vegetables, fresh n.e.c.",40000,187500
+1303,2007,"Other vegetables, fresh n.e.c.",13103,287040
+1304,2008,"Other vegetables, fresh n.e.c.",13813,288735
+1305,2009,"Other vegetables, fresh n.e.c.",13601,310223
+1306,2010,"Other vegetables, fresh n.e.c.",11807,298033
+1307,2011,"Other vegetables, fresh n.e.c.",11965,311894
+1308,2012,"Other vegetables, fresh n.e.c.",12683,309905
+1309,2013,"Other vegetables, fresh n.e.c.",11711,281312
+1310,2014,"Other vegetables, fresh n.e.c.",12475,313056
+1311,2015,"Other vegetables, fresh n.e.c.",12228,298734
+1312,2016,"Other vegetables, fresh n.e.c.",13375,303707
+1313,2017,"Other vegetables, fresh n.e.c.",13837,302336
+1314,2018,"Other vegetables, fresh n.e.c.",1900,95842
+1315,2019,"Other vegetables, fresh n.e.c.",2060,98350
+1316,2020,"Other vegetables, fresh n.e.c.",2000,114100
+1317,2021,"Other vegetables, fresh n.e.c.",2200,106545
+1318,1992,Peaches and nectarines,200,55000
+1319,1993,Peaches and nectarines,200,40000
+1320,1994,Peaches and nectarines,200,35000
+1321,1995,Peaches and nectarines,200,35000
+1322,1996,Peaches and nectarines,200,40000
+1323,1997,Peaches and nectarines,200,15000
+1324,1998,Peaches and nectarines,200,35000
+1325,1999,Peaches and nectarines,200,35000
+1326,2000,Peaches and nectarines,200,50000
+1327,2001,Peaches and nectarines,200,25000
+1328,2002,Peaches and nectarines,100,50000
+1329,2003,Peaches and nectarines,101,34950
+1330,2004,Peaches and nectarines,103,89515
+1331,2005,Peaches and nectarines,104,72500
+1332,2006,Peaches and nectarines,104,76923
+1333,2007,Peaches and nectarines,105,77143
+1334,2008,Peaches and nectarines,110,77273
+1335,2015,Peaches and nectarines,58,91857
+1336,2016,Peaches and nectarines,60,94335
+1337,2017,Peaches and nectarines,58,96328
+1338,1992,Pears,2399,228070
+1339,1993,Pears,2399,180083
+1340,1994,Pears,2399,161509
+1341,1995,Pears,2399,164915
+1342,1996,Pears,2399,154077
+1343,1997,Pears,2372,157411
+1344,1998,Pears,2372,233524
+1345,1999,Pears,2372,227833
+1346,2000,Pears,2372,274713
+1347,2001,Pears,2090,224033
+1348,2002,Pears,2090,364301
+1349,2003,Pears,2090,255952
+1350,2004,Pears,2188,359977
+1351,2005,Pears,2189,174778
+1352,2006,Pears,2226,218266
+1353,2007,Pears,2097,238045
+1354,2008,Pears,2090,182182
+1355,2009,Pears,2093,249971
+1356,2010,Pears,2088,186279
+1357,2011,Pears,2077,225585
+1358,2012,Pears,1926,176002
+1359,2013,Pears,1923,205512
+1360,2014,Pears,1920,234229
+1361,2015,Pears,1920,224328
+1362,2016,Pears,1925,179870
+1363,2017,Pears,2137,109434
+1364,2018,Pears,2140,222617
+1365,2019,Pears,2140,198505
+1366,2020,Pears,2140,183505
+1367,2021,Pears,2140,173645
+1368,1961,"Peas, dry",40581,13891
+1369,1962,"Peas, dry",48105,15287
+1370,1963,"Peas, dry",46737,11979
+1371,1990,"Peas, dry",23700,32363
+1372,1991,"Peas, dry",22545,33158
+1373,1992,"Peas, dry",28652,25804
+1374,1993,"Peas, dry",44428,30156
+1375,1994,"Peas, dry",45288,33359
+1376,1995,"Peas, dry",64195,33715
+1377,1996,"Peas, dry",87344,34448
+1378,1997,"Peas, dry",119335,33556
+1379,1998,"Peas, dry",168861,34903
+1380,1999,"Peas, dry",164483,37088
+1381,2000,"Peas, dry",141320,28934
+1382,2001,"Peas, dry",163610,34205
+1383,2002,"Peas, dry",148428,27840
+1384,2003,"Peas, dry",135916,28822
+1385,2004,"Peas, dry",121508,38204
+1386,2005,"Peas, dry",110300,31396
+1387,2006,"Peas, dry",92100,31238
+1388,2007,"Peas, dry",67668,26229
+1389,2008,"Peas, dry",48034,29262
+1390,2009,"Peas, dry",48323,34333
+1391,2010,"Peas, dry",57228,30049
+1392,2011,"Peas, dry",55800,27706
+1393,2012,"Peas, dry",44800,30982
+1394,2013,"Peas, dry",37900,34169
+1395,2014,"Peas, dry",41700,37242
+1396,2015,"Peas, dry",79100,34994
+1397,2016,"Peas, dry",87500,33166
+1398,2017,"Peas, dry",85500,34865
+1399,2018,"Peas, dry",70700,27878
+1400,2019,"Peas, dry",74600,30590
+1401,2020,"Peas, dry",82600,36017
+1402,2021,"Peas, dry",97700,30614
+1403,1961,"Peas, green",12083,82770
+1404,1962,"Peas, green",12923,90012
+1405,1963,"Peas, green",13209,86657
+1406,1964,"Peas, green",11122,77956
+1407,1965,"Peas, green",11169,80737
+1408,1966,"Peas, green",11210,85213
+1409,1967,"Peas, green",12885,91049
+1410,1968,"Peas, green",12699,88484
+1411,1969,"Peas, green",11858,78825
+1412,1970,"Peas, green",11797,70893
+1413,1971,"Peas, green",11905,67674
+1414,1972,"Peas, green",10492,54059
+1415,1973,"Peas, green",10108,66164
+1416,1974,"Peas, green",9973,65382
+1417,1975,"Peas, green",9585,62123
+1418,1976,"Peas, green",8650,56728
+1419,1977,"Peas, green",9719,61677
+1420,1978,"Peas, green",10342,61069
+1421,1979,"Peas, green",10302,60754
+1422,1980,"Peas, green",9142,54336
+1423,1981,"Peas, green",9891,57492
+1424,1982,"Peas, green",10083,64159
+1425,1983,"Peas, green",8368,61270
+1426,1984,"Peas, green",10057,60646
+1427,1985,"Peas, green",9631,62234
+1428,1986,"Peas, green",9306,57845
+1429,1987,"Peas, green",8104,109822
+1430,1988,"Peas, green",9094,47284
+1431,1989,"Peas, green",9005,44420
+1432,1990,"Peas, green",7913,107545
+1433,1991,"Peas, green",3438,43778
+1434,1992,"Peas, green",3663,47947
+1435,1993,"Peas, green",2880,47424
+1436,1994,"Peas, green",2199,54297
+1437,1995,"Peas, green",3062,55506
+1438,1996,"Peas, green",2951,49848
+1439,1997,"Peas, green",2517,54350
+1440,1998,"Peas, green",2821,54952
+1441,1999,"Peas, green",3990,59576
+1442,2000,"Peas, green",4412,46471
+1443,2001,"Peas, green",4590,58926
+1444,2002,"Peas, green",5139,52388
+1445,2003,"Peas, green",5656,46591
+1446,2004,"Peas, green",5503,57614
+1447,2005,"Peas, green",5141,55892
+1448,2006,"Peas, green",5144,54905
+1449,2007,"Peas, green",5188,50759
+1450,2008,"Peas, green",5265,55757
+1451,2009,"Peas, green",5733,59777
+1452,2010,"Peas, green",4444,56130
+1453,2011,"Peas, green",4015,53589
+1454,2012,"Peas, green",4608,60187
+1455,2013,"Peas, green",4624,57054
+1456,2014,"Peas, green",4679,61802
+1457,2015,"Peas, green",4786,57188
+1458,2016,"Peas, green",5010,55020
+1459,2017,"Peas, green",5514,58185
+1460,2018,"Peas, green",5490,44153
+1461,2019,"Peas, green",5430,44641
+1462,2020,"Peas, green",4550,56066
+1463,2021,"Peas, green",5660,52933
+1464,1993,Plums and sloes,4900,63673
+1465,1994,Plums and sloes,4900,82857
+1466,1995,Plums and sloes,4900,67755
+1467,1996,Plums and sloes,4900,79592
+1468,1997,Plums and sloes,5400,59630
+1469,1998,Plums and sloes,5400,88519
+1470,1999,Plums and sloes,5400,101667
+1471,2000,Plums and sloes,5400,111667
+1472,2001,Plums and sloes,5400,75741
+1473,2002,Plums and sloes,5000,91600
+1474,2003,Plums and sloes,4519,105937
+1475,2004,Plums and sloes,4562,170620
+1476,2005,Plums and sloes,4562,87931
+1477,2006,Plums and sloes,4590,112251
+1478,2007,Plums and sloes,4533,144033
+1479,2008,Plums and sloes,4539,69097
+1480,2009,Plums and sloes,4534,161231
+1481,2010,Plums and sloes,4549,108288
+1482,2011,Plums and sloes,4545,129243
+1483,2012,Plums and sloes,3863,92071
+1484,2013,Plums and sloes,3856,125871
+1485,2014,Plums and sloes,3853,146232
+1486,2015,Plums and sloes,3849,121902
+1487,2016,Plums and sloes,3855,98010
+1488,2017,Plums and sloes,4191,56991
+1489,2018,Plums and sloes,4820,145477
+1490,2019,Plums and sloes,4830,107950
+1491,2020,Plums and sloes,4840,106033
+1492,2021,Plums and sloes,4850,91670
+1493,1961,Poppy seed,4507,6248
+1494,1962,Poppy seed,7951,6774
+1495,1963,Poppy seed,6671,6107
+1496,1964,Poppy seed,4718,5331
+1497,1969,Poppy seed,831,6065
+1498,1970,Poppy seed,1288,5753
+1499,1971,Poppy seed,1219,6448
+1500,1972,Poppy seed,1465,6778
+1501,1973,Poppy seed,2407,5866
+1502,1974,Poppy seed,2791,7485
+1503,1975,Poppy seed,2468,6771
+1504,1976,Poppy seed,2089,3145
+1505,1977,Poppy seed,2207,6339
+1506,1978,Poppy seed,4747,5612
+1507,1979,Poppy seed,4525,7041
+1508,1980,Poppy seed,4341,5570
+1509,1981,Poppy seed,4842,5421
+1510,1982,Poppy seed,5365,6908
+1511,1983,Poppy seed,6940,5347
+1512,1984,Poppy seed,7550,6294
+1513,1985,Poppy seed,6952,8459
+1514,1986,Poppy seed,5621,7385
+1515,1987,Poppy seed,5025,8213
+1516,1988,Poppy seed,4030,6655
+1517,1989,Poppy seed,4961,7817
+1518,1990,Poppy seed,4500,7111
+1519,1993,Poppy seed,4000,7000
+1520,1995,Poppy seed,3800,7105
+1521,2011,Poppy seed,5300,5660
+1522,2012,Poppy seed,5500,5818
+1523,2013,Poppy seed,5500,5818
+1524,2014,Poppy seed,5400,5556
+1525,1961,Potatoes,1658205,180590
+1526,1962,Potatoes,1705524,225080
+1527,1963,Potatoes,1672044,231439
+1528,1964,Potatoes,1596448,209811
+1529,1965,Potatoes,1508433,205188
+1530,1966,Potatoes,1425859,222060
+1531,1967,Potatoes,1393136,253808
+1532,1968,Potatoes,1331443,239100
+1533,1969,Potatoes,1193246,207995
+1534,1970,Potatoes,1263676,231893
+1535,1971,Potatoes,1211945,202876
+1536,1972,Potatoes,1149620,236409
+1537,1973,Potatoes,1130959,221728
+1538,1974,Potatoes,1102486,253544
+1539,1975,Potatoes,989644,187195
+1540,1976,Potatoes,1014510,163866
+1541,1977,Potatoes,987192,219626
+1542,1978,Potatoes,933928,227929
+1543,1979,Potatoes,873990,256846
+1544,1980,Potatoes,819108,209328
+1545,1981,Potatoes,778642,241438
+1546,1982,Potatoes,768466,217369
+1547,1983,Potatoes,732499,182405
+1548,1984,Potatoes,731491,272828
+1549,1985,Potatoes,717942,293253
+1550,1986,Potatoes,690216,262585
+1551,1987,Potatoes,670141,292206
+1552,1988,Potatoes,656800,297174
+1553,1989,Potatoes,645930,264966
+1554,1990,Potatoes,561404,257764
+1555,1991,Potatoes,341782,298464
+1556,1992,Potatoes,360914,301928
+1557,1993,Potatoes,312332,392539
+1558,1994,Potatoes,293421,329512
+1559,1995,Potatoes,315173,314059
+1560,1996,Potatoes,335804,390096
+1561,1997,Potatoes,303584,384055
+1562,1998,Potatoes,297267,381394
+1563,1999,Potatoes,308501,374989
+1564,2000,Potatoes,304380,433437
+1565,2001,Potatoes,282100,407758
+1566,2002,Potatoes,284078,391226
+1567,2003,Potatoes,287264,345177
+1568,2004,Potatoes,295266,441756
+1569,2005,Potatoes,276900,419798
+1570,2006,Potatoes,274300,365680
+1571,2007,Potatoes,274961,423470
+1572,2008,Potatoes,259800,437606
+1573,2009,Potatoes,263700,443045
+1574,2010,Potatoes,254367,398758
+1575,2011,Potatoes,258700,457565
+1576,2012,Potatoes,238300,447570
+1577,2013,Potatoes,242800,398258
+1578,2014,Potatoes,244800,474154
+1579,2015,Potatoes,236700,438116
+1580,2016,Potatoes,242600,444027
+1581,2017,Potatoes,250500,467864
+1582,2018,Potatoes,252200,353719
+1583,2019,Potatoes,271600,390361
+1584,2020,Potatoes,273500,428340
+1585,2021,Potatoes,258300,437944
+1586,2000,"Pumpkins, squash and gourds",644,395242
+1587,2001,"Pumpkins, squash and gourds",818,387025
+1588,2002,"Pumpkins, squash and gourds",741,378807
+1589,2003,"Pumpkins, squash and gourds",735,370590
+1590,2004,"Pumpkins, squash and gourds",857,359974
+1591,2005,"Pumpkins, squash and gourds",2257,356143
+1592,2006,"Pumpkins, squash and gourds",2165,360508
+1593,2007,"Pumpkins, squash and gourds",2238,337006
+1594,2008,"Pumpkins, squash and gourds",2671,280127
+1595,2009,"Pumpkins, squash and gourds",2728,300924
+1596,2010,"Pumpkins, squash and gourds",2797,279446
+1597,2011,"Pumpkins, squash and gourds",3099,284466
+1598,2012,"Pumpkins, squash and gourds",3642,302345
+1599,2013,"Pumpkins, squash and gourds",3963,244782
+1600,2014,"Pumpkins, squash and gourds",4261,251042
+1601,2015,"Pumpkins, squash and gourds",4622,236258
+1602,2016,"Pumpkins, squash and gourds",5095,255256
+1603,2017,"Pumpkins, squash and gourds",5651,236349
+1604,2018,"Pumpkins, squash and gourds",5320,229793
+1605,2019,"Pumpkins, squash and gourds",5380,251970
+1606,2020,"Pumpkins, squash and gourds",5910,225753
+1607,2021,"Pumpkins, squash and gourds",6140,230619
+1608,1961,Rape or colza seed,157418,15652
+1609,1962,Rape or colza seed,143659,18862
+1610,1963,Rape or colza seed,146121,15046
+1611,1964,Rape or colza seed,167655,16937
+1612,1965,Rape or colza seed,164823,19413
+1613,1966,Rape or colza seed,161019,19205
+1614,1967,Rape or colza seed,165196,24013
+1615,1968,Rape or colza seed,182358,23835
+1616,1969,Rape or colza seed,180533,17865
+1617,1970,Rape or colza seed,183291,19958
+1618,1971,Rape or colza seed,198478,21423
+1619,1972,Rape or colza seed,217129,22253
+1620,1973,Rape or colza seed,230107,20350
+1621,1974,Rape or colza seed,232748,25739
+1622,1975,Rape or colza seed,221794,25357
+1623,1976,Rape or colza seed,224513,24141
+1624,1977,Rape or colza seed,229706,25688
+1625,1978,Rape or colza seed,245160,26459
+1626,1979,Rape or colza seed,239792,21796
+1627,1980,Rape or colza seed,262441,26132
+1628,1981,Rape or colza seed,278905,23188
+1629,1982,Rape or colza seed,309395,27194
+1630,1983,Rape or colza seed,354016,24255
+1631,1984,Rape or colza seed,386376,24984
+1632,1985,Rape or colza seed,409605,28879
+1633,1986,Rape or colza seed,458716,30845
+1634,1987,Rape or colza seed,576638,28279
+1635,1988,Rape or colza seed,531666,30851
+1636,1989,Rape or colza seed,576681,32420
+1637,1990,Rape or colza seed,722393,28907
+1638,1991,Rape or colza seed,949537,31303
+1639,1992,Rape or colza seed,1001369,26132
+1640,1993,Rape or colza seed,1006742,28286
+1641,1994,Rape or colza seed,1057565,27379
+1642,1995,Rape or colza seed,973886,31865
+1643,1996,Rape or colza seed,853625,23076
+1644,1997,Rape or colza seed,913971,31363
+1645,1998,Rape or colza seed,1007225,33636
+1646,1999,Rape or colza seed,1198038,35763
+1647,2000,Rape or colza seed,1078010,33262
+1648,2001,Rape or colza seed,1137962,36557
+1649,2002,Rape or colza seed,1296648,29682
+1650,2003,Rape or colza seed,1265608,28713
+1651,2004,Rape or colza seed,1283357,41116
+1652,2005,Rape or colza seed,1343900,37590
+1653,2006,Rape or colza seed,1429000,37344
+1654,2007,Rape or colza seed,1548177,34366
+1655,2008,Rape or colza seed,1370700,37606
+1656,2009,Rape or colza seed,1471200,42868
+1657,2010,Rape or colza seed,1461197,38993
+1658,2011,Rape or colza seed,1328600,29125
+1659,2012,Rape or colza seed,1306200,36909
+1660,2013,Rape or colza seed,1465600,39467
+1661,2014,Rape or colza seed,1394200,44810
+1662,2015,Rape or colza seed,1285500,39026
+1663,2016,Rape or colza seed,1325700,34545
+1664,2017,Rape or colza seed,1304900,32711
+1665,2018,Rape or colza seed,1228300,29937
+1666,2019,Rape or colza seed,856800,33032
+1667,2020,Rape or colza seed,957700,36831
+1668,2021,Rape or colza seed,1000900,35014
+1669,1985,Raspberries,5200,50713
+1670,1997,Raspberries,5300,51209
+1671,1998,Raspberries,5800,51552
+1672,1999,Raspberries,5900,60169
+1673,2005,Raspberries,1100,63636
+1674,2006,Raspberries,1121,64193
+1675,2007,Raspberries,1121,55227
+1676,2008,Raspberries,1120,47625
+1677,2009,Raspberries,1123,45129
+1678,2010,Raspberries,1127,46247
+1679,2011,Raspberries,1118,42737
+1680,2012,Raspberries,1030,45301
+1681,2013,Raspberries,1070,47533
+1682,2014,Raspberries,1103,50435
+1683,2015,Raspberries,1022,55098
+1684,2016,Raspberries,1014,55394
+1685,2017,Raspberries,1072,59272
+1686,2018,Raspberries,1080,63148
+1687,2019,Raspberries,1030,73204
+1688,2020,Raspberries,970,73608
+1689,2021,Raspberries,1020,68824
+1690,1961,Rye,2008314,20012
+1691,1962,Rye,1903816,24645
+1692,1963,Rye,1959213,25081
+1693,1964,Rye,1968949,27930
+1694,1965,Rye,1949987,24281
+1695,1966,Rye,1791115,24221
+1696,1967,Rye,1720978,29914
+1697,1968,Rye,1697843,30189
+1698,1969,Rye,1563416,28352
+1699,1970,Rye,1545347,26843
+1700,1971,Rye,1532156,31232
+1701,1972,Rye,1489460,32368
+1702,1973,Rye,1384579,30878
+1703,1974,Rye,1344957,33522
+1704,1975,Rye,1217278,30296
+1705,1976,Rye,1263466,28138
+1706,1977,Rye,1320762,31676
+1707,1978,Rye,1302464,33416
+1708,1979,Rye,1242267,31749
+1709,1980,Rye,1225073,32773
+1710,1981,Rye,1140359,30924
+1711,1982,Rye,1060132,35450
+1712,1983,Rye,1158136,31877
+1713,1984,Rye,1157616,38364
+1714,1985,Rye,1116377,38754
+1715,1986,Rye,1093860,38162
+1716,1987,Rye,1066938,36384
+1717,1988,Rye,984804,34158
+1718,1989,Rye,1006007,38770
+1719,1990,Rye,1055447,37789
+1720,1991,Rye,710502,46776
+1721,1992,Rye,614618,39414
+1722,1993,Rye,661812,45082
+1723,1994,Rye,722534,47757
+1724,1995,Rye,861374,52489
+1725,1996,Rye,809052,52084
+1726,1997,Rye,843426,54304
+1727,1998,Rye,936395,50991
+1728,1999,Rye,748170,57857
+1729,2000,Rye,842685,49296
+1730,2001,Rye,836981,61320
+1731,2002,Rye,728388,50330
+1732,2003,Rye,531231,42871
+1733,2004,Rye,624945,61285
+1734,2005,Rye,549100,50874
+1735,2006,Rye,538900,49057
+1736,2007,Rye,670939,40217
+1737,2008,Rye,736934,50808
+1738,2009,Rye,749398,56979
+1739,2010,Rye,627112,46251
+1740,2011,Rye,613700,41077
+1741,2012,Rye,708500,54741
+1742,2013,Rye,784600,59764
+1743,2014,Rye,629900,61191
+1744,2015,Rye,616000,56620
+1745,2016,Rye,570900,55593
+1746,2017,Rye,537300,50947
+1747,2018,Rye,523000,42092
+1748,2019,Rye,636300,50882
+1749,2020,Rye,636000,55242
+1750,2021,Rye,631000,52704
+1751,1991,Sour cherries,20490,51245
+1752,1993,Sour cherries,14680,97820
+1753,1994,Sour cherries,14470,82792
+1754,1999,Sour cherries,5000,195000
+1755,2003,Sour cherries,4197,80281
+1756,2004,Sour cherries,4231,83786
+1757,2005,Sour cherries,4226,58142
+1758,2006,Sour cherries,4202,88394
+1759,2007,Sour cherries,3426,83935
+1760,2008,Sour cherries,3405,43791
+1761,2009,Sour cherries,3259,92777
+1762,2010,Sour cherries,2908,62809
+1763,2011,Sour cherries,2855,78088
+1764,2012,Sour cherries,2279,56784
+1765,2013,Sour cherries,2212,59042
+1766,2014,Sour cherries,2170,79959
+1767,2015,Sour cherries,2032,84247
+1768,2016,Sour cherries,2012,79369
+1769,2017,Sour cherries,1920,43057
+1770,2018,Sour cherries,1920,82813
+1771,2019,Sour cherries,1890,83175
+1772,2020,Sour cherries,1870,70535
+1773,2021,Sour cherries,1800,61278
+1774,1989,Soya beans,1884,24660
+1775,1990,Soya beans,2403,19792
+1776,1991,Soya beans,1080,23917
+1777,1994,Soya beans,500,20000
+1778,1998,Soya beans,422,21896
+1779,1999,Soya beans,396,26010
+1780,2001,Soya beans,817,19584
+1781,2002,Soya beans,652,15337
+1782,2018,Soya beans,24100,24357
+1783,2019,Soya beans,28900,29100
+1784,2020,Soya beans,33800,26775
+1785,2021,Soya beans,34200,31170
+1786,1969,Spinach,4839,124199
+1787,1970,Spinach,5344,124633
+1788,1971,Spinach,5664,101389
+1789,1972,Spinach,4487,131203
+1790,1973,Spinach,4159,129529
+1791,1974,Spinach,4377,137699
+1792,1975,Spinach,4155,130335
+1793,1976,Spinach,4572,107483
+1794,1977,Spinach,4264,126229
+1795,1978,Spinach,3995,124548
+1796,1979,Spinach,3882,132300
+1797,1980,Spinach,3631,129353
+1798,1981,Spinach,3913,134475
+1799,1982,Spinach,3550,134507
+1800,1983,Spinach,4039,132632
+1801,1984,Spinach,3969,129758
+1802,1985,Spinach,3787,133018
+1803,1986,Spinach,4177,123890
+1804,1987,Spinach,3311,134434
+1805,1988,Spinach,3627,131880
+1806,1989,Spinach,3693,148557
+1807,1990,Spinach,2930,130461
+1808,1991,Spinach,2463,134584
+1809,1992,Spinach,3756,122588
+1810,1993,Spinach,3483,167218
+1811,1994,Spinach,2950,151393
+1812,1995,Spinach,3225,153622
+1813,1996,Spinach,3889,171419
+1814,1997,Spinach,3825,159072
+1815,1998,Spinach,3505,158870
+1816,1999,Spinach,3458,172328
+1817,2000,Spinach,3811,156977
+1818,2001,Spinach,3525,168661
+1819,2002,Spinach,3257,169294
+1820,2003,Spinach,3433,165569
+1821,2004,Spinach,3431,172445
+1822,2005,Spinach,3545,193786
+1823,2006,Spinach,3338,165222
+1824,2007,Spinach,3582,171407
+1825,2008,Spinach,3528,177075
+1826,2009,Spinach,3546,171481
+1827,2010,Spinach,3145,157297
+1828,2011,Spinach,3377,181395
+1829,2012,Spinach,3424,225272
+1830,2013,Spinach,3030,176191
+1831,2014,Spinach,3103,202833
+1832,2015,Spinach,3296,190459
+1833,2016,Spinach,3616,190954
+1834,2017,Spinach,3848,191720
+1835,2018,Spinach,3480,190230
+1836,2019,Spinach,3460,196647
+1837,2020,Spinach,3970,210252
+1838,2021,Spinach,4320,202685
+1839,1985,Strawberries,9730,85740
+1840,1986,Strawberries,9125,87806
+1841,1987,Strawberries,10470,86192
+1842,1988,Strawberries,9290,89773
+1843,1989,Strawberries,9390,90584
+1844,1990,Strawberries,8305,89070
+1845,1991,Strawberries,5905,90576
+1846,1992,Strawberries,5857,94103
+1847,1993,Strawberries,6262,93429
+1848,1994,Strawberries,6613,89058
+1849,1995,Strawberries,7350,93578
+1850,1996,Strawberries,8348,92517
+1851,1997,Strawberries,8528,92492
+1852,1998,Strawberries,8407,96997
+1853,1999,Strawberries,9269,117840
+1854,2000,Strawberries,9693,107589
+1855,2001,Strawberries,9795,112435
+1856,2002,Strawberries,9930,106039
+1857,2003,Strawberries,10464,91053
+1858,2004,Strawberries,11905,100281
+1859,2005,Strawberries,13553,108094
+1860,2006,Strawberries,14214,121873
+1861,2007,Strawberries,13013,121923
+1862,2008,Strawberries,13032,115757
+1863,2009,Strawberries,12978,122178
+1864,2010,Strawberries,13644,115004
+1865,2011,Strawberries,13848,111509
+1866,2012,Strawberries,15004,103858
+1867,2013,Strawberries,15577,96090
+1868,2014,Strawberries,15352,109947
+1869,2015,Strawberries,14720,117249
+1870,2016,Strawberries,14299,100162
+1871,2017,Strawberries,14156,95566
+1872,2018,Strawberries,14000,101207
+1873,2019,Strawberries,13200,109076
+1874,2020,Strawberries,12860,118336
+1875,2021,Strawberries,12500,104504
+1876,1961,Sugar beet,477937,298925
+1877,1962,Sugar beet,522533,274852
+1878,1963,Sugar beet,532808,356814
+1879,1964,Sugar beet,556960,348090
+1880,1965,Sugar beet,519395,317673
+1881,1966,Sugar beet,504568,382815
+1882,1967,Sugar beet,503220,412771
+1883,1968,Sugar beet,493591,427049
+1884,1969,Sugar beet,486829,374817
+1885,1970,Sugar beet,494515,396201
+1886,1971,Sugar beet,525736,376867
+1887,1972,Sugar beet,553003,397611
+1888,1973,Sugar beet,580936,399962
+1889,1974,Sugar beet,603384,397325
+1890,1975,Sugar beet,691204,368844
+1891,1976,Sugar beet,707666,339651
+1892,1977,Sugar beet,692123,422277
+1893,1978,Sugar beet,663575,397025
+1894,1979,Sugar beet,647432,386688
+1895,1980,Sugar beet,645637,405118
+1896,1981,Sugar beet,706007,459289
+1897,1982,Sugar beet,674886,443415
+1898,1983,Sugar beet,630803,348857
+1899,1984,Sugar beet,645856,431721
+1900,1985,Sugar beet,635772,443717
+1901,1986,Sugar beet,614392,455851
+1902,1987,Sugar beet,595038,449248
+1903,1988,Sugar beet,576523,402682
+1904,1989,Sugar beet,600494,449408
+1905,1990,Sugar beet,611500,496587
+1906,1991,Sugar beet,554143,467853
+1907,1992,Sugar beet,533648,508760
+1908,1993,Sugar beet,521724,548293
+1909,1994,Sugar beet,499987,484238
+1910,1995,Sugar beet,512850,507922
+1911,1996,Sugar beet,515476,505632
+1912,1997,Sugar beet,503664,511628
+1913,1998,Sugar beet,503376,532150
+1914,1999,Sugar beet,489163,563591
+1915,2000,Sugar beet,452006,616587
+1916,2001,Sugar beet,447697,552381
+1917,2002,Sugar beet,459400,583246
+1918,2003,Sugar beet,445630,532184
+1919,2004,Sugar beet,440545,616486
+1920,2005,Sugar beet,420100,601873
+1921,2006,Sugar beet,357600,577366
+1922,2007,Sugar beet,402697,624269
+1923,2008,Sugar beet,369300,622870
+1924,2009,Sugar beet,383600,675679
+1925,2010,Sugar beet,364120,643522
+1926,2011,Sugar beet,398100,742967
+1927,2012,Sugar beet,402100,688555
+1928,2013,Sugar beet,357400,638744
+1929,2014,Sugar beet,372500,798607
+1930,2015,Sugar beet,312800,721611
+1931,2016,Sugar beet,364300,742945
+1932,2017,Sugar beet,406700,837470
+1933,2018,Sugar beet,413900,632795
+1934,2019,Sugar beet,408700,727387
+1935,2020,Sugar beet,386000,741402
+1936,2021,Sugar beet,390700,817645
+1937,1991,Sunflower seed,43902,28700
+1938,1992,Sunflower seed,64993,24772
+1939,1993,Sunflower seed,81543,26207
+1940,1994,Sunflower seed,188892,16464
+1941,1995,Sunflower seed,52160,21303
+1942,1996,Sunflower seed,43758,23591
+1943,1997,Sunflower seed,34445,24665
+1944,1998,Sunflower seed,33704,25338
+1945,1999,Sunflower seed,33354,25146
+1946,2000,Sunflower seed,25794,24758
+1947,2001,Sunflower seed,24583,22117
+1948,2002,Sunflower seed,26101,19865
+1949,2003,Sunflower seed,37200,19635
+1950,2004,Sunflower seed,31557,22072
+1951,2005,Sunflower seed,27100,24760
+1952,2006,Sunflower seed,32000,19344
+1953,2007,Sunflower seed,19161,26545
+1954,2008,Sunflower seed,24900,19639
+1955,2009,Sunflower seed,23600,24110
+1956,2010,Sunflower seed,24973,18916
+1957,2011,Sunflower seed,26800,19851
+1958,2012,Sunflower seed,26400,23788
+1959,2013,Sunflower seed,21900,21050
+1960,2014,Sunflower seed,20000,23000
+1961,2015,Sunflower seed,18400,19185
+1962,2016,Sunflower seed,16700,21377
+1963,2017,Sunflower seed,18000,22000
+1964,2018,Sunflower seed,19500,18205
+1965,2019,Sunflower seed,22500,20444
+1966,2020,Sunflower seed,28200,20567
+1967,2021,Sunflower seed,38300,26031
+1968,1961,Tomatoes,2474,256043
+1969,1962,Tomatoes,2293,236014
+1970,1963,Tomatoes,2330,283056
+1971,1964,Tomatoes,2318,291782
+1972,1965,Tomatoes,2196,260141
+1973,1966,Tomatoes,2096,280048
+1974,1967,Tomatoes,1896,288586
+1975,1968,Tomatoes,1853,292348
+1976,1969,Tomatoes,1703,300546
+1977,1970,Tomatoes,1499,340934
+1978,1971,Tomatoes,1626,287122
+1979,1972,Tomatoes,1711,314611
+1980,1973,Tomatoes,1845,333789
+1981,1974,Tomatoes,1793,284428
+1982,1975,Tomatoes,1939,337060
+1983,1976,Tomatoes,2164,313420
+1984,1977,Tomatoes,2260,312562
+1985,1978,Tomatoes,2324,237091
+1986,1979,Tomatoes,2353,319830
+1987,1980,Tomatoes,2163,258983
+1988,1981,Tomatoes,2209,326519
+1989,1982,Tomatoes,2215,385011
+1990,1983,Tomatoes,2289,398204
+1991,1984,Tomatoes,2240,247879
+1992,1985,Tomatoes,2282,349777
+1993,1986,Tomatoes,2446,339988
+1994,1987,Tomatoes,2345,301778
+1995,1988,Tomatoes,2440,364352
+1996,1989,Tomatoes,2462,408981
+1997,1990,Tomatoes,1458,352263
+1998,1991,Tomatoes,289,871592
+1999,1992,Tomatoes,442,683710
+2000,1993,Tomatoes,211,982085
+2001,1994,Tomatoes,214,1004720
+2002,1995,Tomatoes,235,1156596
+2003,1996,Tomatoes,410,934098
+2004,1997,Tomatoes,271,1204428
+2005,1998,Tomatoes,282,1358582
+2006,1999,Tomatoes,257,1520195
+2007,2000,Tomatoes,327,1468196
+2008,2001,Tomatoes,324,1355154
+2009,2002,Tomatoes,282,1605390
+2010,2003,Tomatoes,294,1662245
+2011,2004,Tomatoes,332,1749458
+2012,2005,Tomatoes,322,1784565
+2013,2006,Tomatoes,279,1908208
+2014,2007,Tomatoes,293,2136485
+2015,2008,Tomatoes,308,2113506
+2016,2009,Tomatoes,316,2108228
+2017,2010,Tomatoes,322,2275932
+2018,2011,Tomatoes,321,2389969
+2019,2012,Tomatoes,315,1942476
+2020,2013,Tomatoes,332,2086084
+2021,2014,Tomatoes,330,2560485
+2022,2015,Tomatoes,328,2467785
+2023,2016,Tomatoes,337,2530772
+2024,2017,Tomatoes,374,2581845
+2025,2018,Tomatoes,400,2581750
+2026,2019,Tomatoes,390,2735641
+2027,2020,Tomatoes,380,2687368
+2028,2021,Tomatoes,400,2544250
+2029,1985,Triticale,50,40000
+2030,1986,Triticale,790,37975
+2031,1987,Triticale,18084,39814
+2032,1988,Triticale,19813,50078
+2033,1989,Triticale,29247,53596
+2034,1990,Triticale,77154,50400
+2035,1991,Triticale,130159,55052
+2036,1992,Triticale,175493,50728
+2037,1993,Triticale,218513,52495
+2038,1994,Triticale,208118,54051
+2039,1995,Triticale,288608,56934
+2040,1996,Triticale,364224,58412
+2041,1997,Triticale,437814,59855
+2042,1998,Triticale,468546,60061
+2043,1999,Triticale,386458,61427
+2044,2000,Triticale,499475,56055
+2045,2001,Triticale,533497,64085
+2046,2002,Triticale,560466,54745
+2047,2003,Triticale,499796,49628
+2048,2004,Triticale,507391,64837
+2049,2005,Triticale,480800,55655
+2050,2006,Triticale,404600,55292
+2051,2007,Triticale,381036,54102
+2052,2008,Triticale,398804,59715
+2053,2009,Triticale,401081,62690
+2054,2010,Triticale,397517,54261
+2055,2011,Triticale,383400,52277
+2056,2012,Triticale,371400,61788
+2057,2013,Triticale,396900,65734
+2058,2014,Triticale,418200,71071
+2059,2015,Triticale,401600,64699
+2060,2016,Triticale,396100,60523
+2061,2017,Triticale,389000,59563
+2062,2018,Triticale,357700,54110
+2063,2019,Triticale,358200,61276
+2064,2020,Triticale,341300,59663
+2065,2021,Triticale,328300,58136
+2066,1961,"True hemp, raw or retted",3576,3328
+2067,1962,"True hemp, raw or retted",4973,3571
+2068,1963,"True hemp, raw or retted",4372,3742
+2069,1964,"True hemp, raw or retted",4548,4442
+2070,1965,"True hemp, raw or retted",2903,4392
+2071,1966,"True hemp, raw or retted",2598,5246
+2072,1967,"True hemp, raw or retted",2048,5957
+2073,1968,"True hemp, raw or retted",1875,6347
+2074,1969,"True hemp, raw or retted",1462,6088
+2075,1970,"True hemp, raw or retted",1698,5571
+2076,1971,"True hemp, raw or retted",1548,6731
+2077,1972,"True hemp, raw or retted",474,5759
+2078,1961,Unmanufactured tobacco,8200,16110
+2079,1962,Unmanufactured tobacco,8610,17260
+2080,1963,Unmanufactured tobacco,8910,20428
+2081,1964,Unmanufactured tobacco,8840,19828
+2082,1965,Unmanufactured tobacco,8095,18400
+2083,1966,Unmanufactured tobacco,7809,19413
+2084,1967,Unmanufactured tobacco,7471,19957
+2085,1968,Unmanufactured tobacco,7372,19388
+2086,1969,Unmanufactured tobacco,6756,20281
+2087,1970,Unmanufactured tobacco,6717,20773
+2088,1971,Unmanufactured tobacco,6886,20094
+2089,1972,Unmanufactured tobacco,7254,21514
+2090,1973,Unmanufactured tobacco,7236,24348
+2091,1974,Unmanufactured tobacco,7044,22147
+2092,1975,Unmanufactured tobacco,7006,20492
+2093,1976,Unmanufactured tobacco,7128,21644
+2094,1977,Unmanufactured tobacco,6928,20240
+2095,1978,Unmanufactured tobacco,6622,18256
+2096,1979,Unmanufactured tobacco,6293,20429
+2097,1980,Unmanufactured tobacco,6313,16851
+2098,1981,Unmanufactured tobacco,5990,19654
+2099,1982,Unmanufactured tobacco,5986,20053
+2100,1983,Unmanufactured tobacco,6084,18667
+2101,1984,Unmanufactured tobacco,6501,19279
+2102,1985,Unmanufactured tobacco,6559,20991
+2103,1986,Unmanufactured tobacco,6761,20343
+2104,1987,Unmanufactured tobacco,6735,17283
+2105,1988,Unmanufactured tobacco,6678,19184
+2106,1989,Unmanufactured tobacco,6849,18219
+2107,1990,Unmanufactured tobacco,5502,18977
+2108,1991,Unmanufactured tobacco,3383,20364
+2109,1992,Unmanufactured tobacco,2987,27161
+2110,1993,Unmanufactured tobacco,3798,22912
+2111,1994,Unmanufactured tobacco,4066,19041
+2112,1995,Unmanufactured tobacco,3576,19116
+2113,1996,Unmanufactured tobacco,3414,24347
+2114,1997,Unmanufactured tobacco,3492,24353
+2115,1998,Unmanufactured tobacco,3847,25542
+2116,1999,Unmanufactured tobacco,4546,24549
+2117,2000,Unmanufactured tobacco,4576,24006
+2118,2001,Unmanufactured tobacco,4624,24743
+2119,2002,Unmanufactured tobacco,4727,23905
+2120,2003,Unmanufactured tobacco,4700,24734
+2121,2004,Unmanufactured tobacco,4448,22709
+2122,2005,Unmanufactured tobacco,4459,24436
+2123,2006,Unmanufactured tobacco,3357,25365
+2124,2007,Unmanufactured tobacco,3270,23670
+2125,2008,Unmanufactured tobacco,3143,26532
+2126,2009,Unmanufactured tobacco,3091,26603
+2127,2010,Unmanufactured tobacco,2356,25976
+2128,1961,Vetches,12519,8291
+2129,1962,Vetches,13258,9431
+2130,1963,Vetches,13201,7096
+2131,1992,Vetches,1000,9500
+2132,1993,Vetches,500,9000
+2133,1994,Vetches,200,7500
+2134,1985,"Walnuts, in shell",5280,17045
+2135,1986,"Walnuts, in shell",5280,24811
+2136,1987,"Walnuts, in shell",5250,11619
+2137,1988,"Walnuts, in shell",5280,26894
+2138,1989,"Walnuts, in shell",5140,22957
+2139,1990,"Walnuts, in shell",5120,23828
+2140,1991,"Walnuts, in shell",5120,9961
+2141,1992,"Walnuts, in shell",5120,35352
+2142,1993,"Walnuts, in shell",5120,32227
+2143,1994,"Walnuts, in shell",5120,27930
+2144,1995,"Walnuts, in shell",5120,26953
+2145,1997,"Walnuts, in shell",3500,21960
+2146,1998,"Walnuts, in shell",4500,33778
+2147,2000,"Walnuts, in shell",6000,30333
+2148,2001,"Walnuts, in shell",4500,34889
+2149,1961,Wheat,1774628,28607
+2150,1962,Wheat,1742400,33898
+2151,1963,Wheat,1808211,33934
+2152,1964,Wheat,1880078,34845
+2153,1965,Wheat,1902596,32321
+2154,1966,Wheat,1872840,32325
+2155,1967,Wheat,1947141,40216
+2156,1968,Wheat,2033856,42162
+2157,1969,Wheat,2054492,38877
+2158,1970,Wheat,2091560,37264
+2159,1971,Wheat,2177684,44229
+2160,1972,Wheat,2315879,40380
+2161,1973,Wheat,2299046,43477
+2162,1974,Wheat,2359547,46257
+2163,1975,Wheat,2257525,43188
+2164,1976,Wheat,2393376,39344
+2165,1977,Wheat,2330285,43553
+2166,1978,Wheat,2305177,48869
+2167,1979,Wheat,2339502,47776
+2168,1980,Wheat,2374806,47389
+2169,1981,Wheat,2306455,48797
+2170,1982,Wheat,2168642,52433
+2171,1983,Wheat,2409210,52084
+2172,1984,Wheat,2380860,59331
+2173,1985,Wheat,2367540,58295
+2174,1986,Wheat,2396842,60919
+2175,1987,Wheat,2418963,57757
+2176,1988,Wheat,2508698,62266
+2177,1989,Wheat,2553725,56815
+2178,1990,Wheat,2429610,62734
+2179,1991,Wheat,2453332,67712
+2180,1992,Wheat,2598471,59811
+2181,1993,Wheat,2394642,65841
+2182,1994,Wheat,2434910,67684
+2183,1995,Wheat,2578793,68882
+2184,1996,Wheat,2594418,72932
+2185,1997,Wheat,2719643,72902
+2186,1998,Wheat,2802455,72035
+2187,1999,Wheat,2601122,75411
+2188,2000,Wheat,2968940,72826
+2189,2001,Wheat,2897202,78827
+2190,2002,Wheat,3014620,69056
+2191,2003,Wheat,2963731,64985
+2192,2004,Wheat,3111651,81716
+2193,2005,Wheat,3173800,74651
+2194,2006,Wheat,3114700,72007
+2195,2007,Wheat,2992075,69611
+2196,2008,Wheat,3213485,80873
+2197,2009,Wheat,3226036,78091
+2198,2010,Wheat,3297699,72120
+2199,2011,Wheat,3248200,70139
+2200,2012,Wheat,3056700,73312
+2201,2013,Wheat,3128200,79979
+2202,2014,Wheat,3219700,86296
+2203,2015,Wheat,3282700,80877
+2204,2016,Wheat,3201700,76409
+2205,2017,Wheat,3202600,76443
+2206,2018,Wheat,3036300,66737
+2207,2019,Wheat,3118100,73964
+2208,2020,Wheat,2835500,78195
+2209,2021,Wheat,2939000,73015

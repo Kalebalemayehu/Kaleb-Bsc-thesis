@@ -1,0 +1,37 @@
+###### Moodle Task
+
+4 Submissions in total (3 Done - Final Project)
+1. Create Moodle Submissions
+	- 3 Components
+		- Report (Include similarity check)
+		- Presentation (PDF and PPTX)
+		- Code and Datasets (ZIP)
+	- Set them as groups
+
+
+2. Submission for EDA and preprocessing
+Deadline: tbd
+
+
+
+###### Research Task
+
+Extracted features: authors, title, DOI, index keywords, author keywords, abstract
+
+Dataset 1 - Classified into sectors
+Export the 20.000 articles from Scopus
+( TITLE-ABS-KEY ( explainable  OR  interpretable  OR  understandable  OR  responsible  OR  trustable )  AND  TITLE-ABS-KEY ( "artificial intelligence"  OR  "machine learning"  OR  "Data Mining"  OR  "deep learning" ) )
+Ideas: count the keywords per article per sector -> Term Frequency
+Sectors: energy, materials, industrials, consumer discretionary, consumer staples, health care, financials, information technology, communication services, utilities, real estate
+
+Dataset 2 - 
+Export the 1408 articles from Scopus
+TITLE-ABS-KEY ( "artificial intelligence"  OR  "machine learning"  OR  "Data Mining"  OR  "deep learning" )  AND  TITLE ( "supply-chain"  OR  "supply chain" ) 
+Ideas: count the keywords per article per sector -> Term Frequency
+4 Sectors: Production, Retail, Processing, Distribution
+
+https://www.holisticseo.digital/python-seo/nltk/wordnet -> synonyms in python
+https://stackoverflow.com/questions/63666191/using-wordnet-with-nltk-to-find-synonyms-that-make-sense 
+
+
+
