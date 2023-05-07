@@ -63,7 +63,7 @@ def genSankey(df,cat_cols=[],value_cols='',title='Sankey Diagram'):
     layout =  dict(
         title = title,
         font = dict(
-          size = 10
+          size = 20
         )
     )
        
